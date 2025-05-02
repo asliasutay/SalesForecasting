@@ -1,0 +1,1163 @@
+year,month,product_id,total_quantity,total_revenue,product_name
+1996,7,2,105,1596.0,Chang
+1996,7,5,77,1309.0,Chef Anton's Gumbo Mix
+1996,7,7,15,360.0,Uncle Bob's Organic Dried Pears
+1996,7,11,12,168.0,Queso Cabrales
+1996,7,12,12,364.79999999999995,Queso Manchego La Pastora
+1996,7,14,9,167.4,Tofu
+1996,7,16,95,1320.5,Pavlova
+1996,7,17,30,936.0,Alice Mutton
+1996,7,20,40,2592.0,Sir Rodney's Marmalade
+1996,7,21,30,240.0,Sir Rodney's Scones
+1996,7,22,6,100.80000000000001,Gustaf's Knäckebröd
+1996,7,24,43,154.8,Guaraná Fantástica
+1996,7,27,25,877.5,Schoggi Schokolade
+1996,7,29,10,990.0,Thüringer Rostbratwurst
+1996,7,30,60,1242.0,Nord-Ost Matjeshering
+1996,7,31,20,200.0,Gorgonzola Telino
+1996,7,32,6,153.60000000000002,Mascarpone Fabioli
+1996,7,33,85,170.0,Geitost
+1996,7,35,20,288.0,Steeleye Stout
+1996,7,36,25,380.0,Inlagd Sill
+1996,7,37,1,20.8,Gravad lax
+1996,7,39,48,691.2,Chartreuse verte
+1996,7,40,50,735.0,Boston Crab Meat
+1996,7,41,51,392.7,Jack's New England Clam Chowder
+1996,7,42,10,98.0,Singaporean Hokkien Fried Mee
+1996,7,49,40,640.0,Maxilaku
+1996,7,51,75,3180.0,Manjimup Dried Apples
+1996,7,53,15,393.0,Perth Pasties
+1996,7,55,21,403.2,Pâté chinois
+1996,7,56,2,60.8,Gnocchi di nonna Alice
+1996,7,57,65,1014.0,Ravioli Angelo
+1996,7,59,100,4400.0,Raclette Courdavault
+1996,7,60,40,1088.0,Camembert Pierrot
+1996,7,62,15,591.0,Tarte au sucre
+1996,7,65,35,588.0,Louisiana Fiery Hot Pepper Sauce
+1996,7,70,41,492.0,Outback Lager
+1996,7,72,29,841.2,Mozzarella di Giovanni
+1996,7,74,57,456.0,Longlife Tofu
+1996,7,76,15,216.0,Lakkalikööri
+1996,7,77,27,280.8,Original Frankfurter grüne Soße
+1996,8,1,63,907.2,Chai
+1996,8,3,30,240.0,Aniseed Syrup
+1996,8,5,20,340.0,Chef Anton's Gumbo Mix
+1996,8,10,39,967.2,Ikura
+1996,8,13,30,144.0,Konbu
+1996,8,15,20,248.0,Genen Shouyu
+1996,8,16,40,556.0,Pavlova
+1996,8,17,30,936.0,Alice Mutton
+1996,8,18,12,600.0,Carnarvon Tigers
+1996,8,19,19,138.70000000000002,Teatime Chocolate Biscuits
+1996,8,20,26,1684.8,Sir Rodney's Marmalade
+1996,8,24,40,144.0,Guaraná Fantástica
+1996,8,27,15,526.5,Schoggi Schokolade
+1996,8,28,20,728.0,Rössle Sauerkraut
+1996,8,29,15,1485.0,Thüringer Rostbratwurst
+1996,8,30,6,124.19999999999999,Nord-Ost Matjeshering
+1996,8,31,55,550.0,Gorgonzola Telino
+1996,8,33,44,88.0,Geitost
+1996,8,34,20,224.0,Sasquatch Ale
+1996,8,35,104,1497.6,Steeleye Stout
+1996,8,36,30,456.0,Inlagd Sill
+1996,8,40,100,1470.0,Boston Crab Meat
+1996,8,43,40,1472.0,Ipoh Coffee
+1996,8,44,61,945.5,Gula Malacca
+1996,8,46,15,144.0,Spegesild
+1996,8,49,15,240.0,Maxilaku
+1996,8,51,2,84.8,Manjimup Dried Apples
+1996,8,53,36,943.1999999999999,Perth Pasties
+1996,8,54,10,59.0,Tourtière
+1996,8,55,20,384.0,Pâté chinois
+1996,8,57,2,31.2,Ravioli Angelo
+1996,8,59,21,924.0,Raclette Courdavault
+1996,8,60,76,2067.2,Camembert Pierrot
+1996,8,62,52,2048.8,Tarte au sucre
+1996,8,63,13,456.3,Vegie-spread
+1996,8,64,9,239.4,Wimmers gute Semmelknödel
+1996,8,67,5,56.0,Laughing Lumberjack Lager
+1996,8,68,3,30.0,Scottish Longbreads
+1996,8,71,20,344.0,Flotemysost
+1996,8,72,34,945.2,Mozzarella di Giovanni
+1996,8,73,25,300.0,Röd Kaviar
+1996,8,75,42,260.4,Rhönbräu Klosterbier
+1996,8,76,33,475.2,Lakkalikööri
+1996,8,77,10,104.0,Original Frankfurter grüne Soße
+1996,9,1,20,288.0,Chai
+1996,9,2,40,608.0,Chang
+1996,9,4,20,352.0,Chef Anton's Cajun Seasoning
+1996,9,6,30,600.0,Grandma's Boysenberry Spread
+1996,9,11,12,201.60000000000002,Queso Cabrales
+1996,9,16,40,556.0,Pavlova
+1996,9,17,40,1248.0,Alice Mutton
+1996,9,18,25,1250.0,Carnarvon Tigers
+1996,9,19,15,109.5,Teatime Chocolate Biscuits
+1996,9,28,32,1164.8,Rössle Sauerkraut
+1996,9,29,25,2475.0,Thüringer Rostbratwurst
+1996,9,30,10,207.0,Nord-Ost Matjeshering
+1996,9,32,40,1024.0,Mascarpone Fabioli
+1996,9,34,14,156.79999999999998,Sasquatch Ale
+1996,9,36,52,790.4,Inlagd Sill
+1996,9,39,90,1296.0,Chartreuse verte
+1996,9,40,50,735.0,Boston Crab Meat
+1996,9,41,10,77.0,Jack's New England Clam Chowder
+1996,9,42,8,89.6,Singaporean Hokkien Fried Mee
+1996,9,43,56,2060.7999999999997,Ipoh Coffee
+1996,9,49,30,480.0,Maxilaku
+1996,9,53,30,786.0,Perth Pasties
+1996,9,54,5,29.5,Tourtière
+1996,9,56,24,729.6,Gnocchi di nonna Alice
+1996,9,58,30,318.0,Escargots de Bourgogne
+1996,9,59,40,1760.0,Raclette Courdavault
+1996,9,62,125,4925.0,Tarte au sucre
+1996,9,65,30,504.0,Louisiana Fiery Hot Pepper Sauce
+1996,9,66,30,408.0,Louisiana Hot Spiced Okra
+1996,9,68,38,380.0,Scottish Longbreads
+1996,9,69,23,662.4,Gudbrandsdalsost
+1996,9,70,55,660.0,Outback Lager
+1996,9,71,5,86.0,Flotemysost
+1996,9,72,20,556.0,Mozzarella di Giovanni
+1996,9,75,10,62.0,Rhönbräu Klosterbier
+1996,10,2,56,851.1999999999999,Chang
+1996,10,4,52,915.2,Chef Anton's Cajun Seasoning
+1996,10,6,6,120.0,Grandma's Boysenberry Spread
+1996,10,11,50,840.0,Queso Cabrales
+1996,10,13,12,57.599999999999994,Konbu
+1996,10,14,19,353.4,Tofu
+1996,10,15,5,62.0,Genen Shouyu
+1996,10,16,21,291.90000000000003,Pavlova
+1996,10,17,98,3057.6,Alice Mutton
+1996,10,18,60,3000.0,Carnarvon Tigers
+1996,10,19,10,73.0,Teatime Chocolate Biscuits
+1996,10,21,10,80.0,Sir Rodney's Scones
+1996,10,23,40,288.0,Tunnbröd
+1996,10,25,4,44.8,NuNuCa Nuß-Nougat-Creme
+1996,10,26,74,1842.6,Gumbär Gummibärchen
+1996,10,28,14,509.59999999999997,Rössle Sauerkraut
+1996,10,30,58,1200.6,Nord-Ost Matjeshering
+1996,10,31,85,850.0,Gorgonzola Telino
+1996,10,32,6,153.60000000000002,Mascarpone Fabioli
+1996,10,33,8,16.0,Geitost
+1996,10,35,80,1152.0,Steeleye Stout
+1996,10,36,60,912.0,Inlagd Sill
+1996,10,37,28,582.4,Gravad lax
+1996,10,38,20,4216.0,Côte de Blaye
+1996,10,39,4,57.6,Chartreuse verte
+1996,10,41,32,246.4,Jack's New England Clam Chowder
+1996,10,42,10,112.0,Singaporean Hokkien Fried Mee
+1996,10,43,40,1472.0,Ipoh Coffee
+1996,10,46,30,288.0,Spegesild
+1996,10,47,16,121.6,Zaanse koeken
+1996,10,51,48,2035.1999999999998,Manjimup Dried Apples
+1996,10,52,28,156.8,Filo Mix
+1996,10,54,15,88.5,Tourtière
+1996,10,55,40,768.0,Pâté chinois
+1996,10,56,12,364.79999999999995,Gnocchi di nonna Alice
+1996,10,57,16,249.6,Ravioli Angelo
+1996,10,58,30,318.0,Escargots de Bourgogne
+1996,10,59,58,2552.0,Raclette Courdavault
+1996,10,62,28,1103.2,Tarte au sucre
+1996,10,63,80,2808.0,Vegie-spread
+1996,10,64,50,1330.0,Wimmers gute Semmelknödel
+1996,10,65,40,672.0,Louisiana Fiery Hot Pepper Sauce
+1996,10,68,24,240.0,Scottish Longbreads
+1996,10,71,70,1204.0,Flotemysost
+1996,10,72,90,2502.0,Mozzarella di Giovanni
+1996,10,75,50,310.0,Rhönbräu Klosterbier
+1996,10,76,51,734.4,Lakkalikööri
+1996,11,1,27,388.8,Chai
+1996,11,4,35,616.0,Chef Anton's Cajun Seasoning
+1996,11,8,140,4480.0,Northwoods Cranberry Sauce
+1996,11,10,30,744.0,Ikura
+1996,11,11,36,604.8000000000001,Queso Cabrales
+1996,11,16,56,778.4,Pavlova
+1996,11,17,36,1123.2,Alice Mutton
+1996,11,19,80,584.0,Teatime Chocolate Biscuits
+1996,11,21,5,40.0,Sir Rodney's Scones
+1996,11,23,25,180.0,Tunnbröd
+1996,11,24,45,162.0,Guaraná Fantástica
+1996,11,25,60,672.0,NuNuCa Nuß-Nougat-Creme
+1996,11,26,16,398.4,Gumbär Gummibärchen
+1996,11,28,43,1565.2,Rössle Sauerkraut
+1996,11,29,39,3861.0,Thüringer Rostbratwurst
+1996,11,31,120,1200.0,Gorgonzola Telino
+1996,11,34,46,515.2,Sasquatch Ale
+1996,11,36,20,304.0,Inlagd Sill
+1996,11,38,80,16864.0,Côte de Blaye
+1996,11,39,104,1497.6,Chartreuse verte
+1996,11,40,4,58.8,Boston Crab Meat
+1996,11,41,13,100.10000000000001,Jack's New England Clam Chowder
+1996,11,42,9,100.8,Singaporean Hokkien Fried Mee
+1996,11,44,77,1193.5,Gula Malacca
+1996,11,49,35,560.0,Maxilaku
+1996,11,50,15,195.0,Valkoinen suklaa
+1996,11,51,20,848.0,Manjimup Dried Apples
+1996,11,54,114,672.6000000000001,Tourtière
+1996,11,55,12,230.39999999999998,Pâté chinois
+1996,11,56,20,608.0,Gnocchi di nonna Alice
+1996,11,57,50,780.0,Ravioli Angelo
+1996,11,60,143,3889.6,Camembert Pierrot
+1996,11,64,35,931.0,Wimmers gute Semmelknödel
+1996,11,65,30,504.0,Louisiana Fiery Hot Pepper Sauce
+1996,11,69,68,1958.4,Gudbrandsdalsost
+1996,11,71,5,86.0,Flotemysost
+1996,11,75,18,111.60000000000001,Rhönbräu Klosterbier
+1996,11,76,12,172.8,Lakkalikööri
+1996,11,77,12,124.8,Original Frankfurter grüne Soße
+1996,12,1,15,216.0,Chai
+1996,12,2,25,380.0,Chang
+1996,12,5,32,544.0,Chef Anton's Gumbo Mix
+1996,12,7,10,240.0,Uncle Bob's Organic Dried Pears
+1996,12,10,16,396.8,Ikura
+1996,12,13,48,230.39999999999998,Konbu
+1996,12,14,57,1060.2,Tofu
+1996,12,18,9,450.0,Carnarvon Tigers
+1996,12,20,40,2592.0,Sir Rodney's Marmalade
+1996,12,21,10,80.0,Sir Rodney's Scones
+1996,12,23,40,288.0,Tunnbröd
+1996,12,24,30,108.0,Guaraná Fantástica
+1996,12,25,7,78.39999999999999,NuNuCa Nuß-Nougat-Creme
+1996,12,26,70,1743.0,Gumbär Gummibärchen
+1996,12,28,26,946.4,Rössle Sauerkraut
+1996,12,29,34,3366.0,Thüringer Rostbratwurst
+1996,12,30,18,372.59999999999997,Nord-Ost Matjeshering
+1996,12,31,164,1640.0,Gorgonzola Telino
+1996,12,33,60,120.0,Geitost
+1996,12,34,10,112.0,Sasquatch Ale
+1996,12,35,70,1008.0,Steeleye Stout
+1996,12,36,6,91.19999999999999,Inlagd Sill
+1996,12,38,40,8432.0,Côte de Blaye
+1996,12,39,20,288.0,Chartreuse verte
+1996,12,41,8,61.6,Jack's New England Clam Chowder
+1996,12,45,15,114.0,Rogede sild
+1996,12,46,73,700.8,Spegesild
+1996,12,50,15,195.0,Valkoinen suklaa
+1996,12,51,18,763.1999999999999,Manjimup Dried Apples
+1996,12,52,20,112.0,Filo Mix
+1996,12,53,130,3406.0,Perth Pasties
+1996,12,54,10,59.0,Tourtière
+1996,12,55,135,2592.0,Pâté chinois
+1996,12,56,38,1155.1999999999998,Gnocchi di nonna Alice
+1996,12,58,95,1007.0,Escargots de Bourgogne
+1996,12,59,12,528.0,Raclette Courdavault
+1996,12,60,111,3019.2,Camembert Pierrot
+1996,12,62,30,1182.0,Tarte au sucre
+1996,12,63,16,561.6,Vegie-spread
+1996,12,64,30,798.0,Wimmers gute Semmelknödel
+1996,12,65,20,336.0,Louisiana Fiery Hot Pepper Sauce
+1996,12,68,68,680.0,Scottish Longbreads
+1996,12,69,58,1670.4,Gudbrandsdalsost
+1996,12,70,60,720.0,Outback Lager
+1996,12,71,161,2769.2,Flotemysost
+1996,12,72,87,2418.6000000000004,Mozzarella di Giovanni
+1996,12,74,84,672.0,Longlife Tofu
+1996,12,76,35,504.0,Lakkalikööri
+1996,12,77,14,145.6,Original Frankfurter grüne Soße
+1997,1,1,34,489.6,Chai
+1997,1,2,60,912.0,Chang
+1997,1,3,50,400.0,Aniseed Syrup
+1997,1,9,20,1552.0,Mishi Kobe Niku
+1997,1,11,30,504.0,Queso Cabrales
+1997,1,13,2,9.6,Konbu
+1997,1,14,67,1246.2,Tofu
+1997,1,16,21,291.90000000000003,Pavlova
+1997,1,17,97,3026.4,Alice Mutton
+1997,1,19,42,306.59999999999997,Teatime Chocolate Biscuits
+1997,1,21,92,736.0,Sir Rodney's Scones
+1997,1,23,60,432.0,Tunnbröd
+1997,1,26,72,1792.8,Gumbär Gummibärchen
+1997,1,28,42,1528.8,Rössle Sauerkraut
+1997,1,29,21,2079.0,Thüringer Rostbratwurst
+1997,1,30,18,372.59999999999997,Nord-Ost Matjeshering
+1997,1,31,14,140.0,Gorgonzola Telino
+1997,1,33,119,238.0,Geitost
+1997,1,35,95,1368.0,Steeleye Stout
+1997,1,36,5,76.0,Inlagd Sill
+1997,1,37,10,208.0,Gravad lax
+1997,1,38,99,20869.2,Côte de Blaye
+1997,1,40,52,764.4,Boston Crab Meat
+1997,1,41,25,192.5,Jack's New England Clam Chowder
+1997,1,42,40,448.0,Singaporean Hokkien Fried Mee
+1997,1,44,40,620.0,Gula Malacca
+1997,1,46,22,211.2,Spegesild
+1997,1,47,85,646.0,Zaanse koeken
+1997,1,48,70,714.0,Chocolade
+1997,1,49,60,960.0,Maxilaku
+1997,1,50,40,520.0,Valkoinen suklaa
+1997,1,53,25,655.0,Perth Pasties
+1997,1,54,46,271.4,Tourtière
+1997,1,55,10,192.0,Pâté chinois
+1997,1,56,105,3192.0,Gnocchi di nonna Alice
+1997,1,57,20,312.0,Ravioli Angelo
+1997,1,59,115,5060.0,Raclette Courdavault
+1997,1,60,60,1632.0,Camembert Pierrot
+1997,1,61,16,364.8,Sirop d'érable
+1997,1,62,75,2955.0,Tarte au sucre
+1997,1,63,100,3510.0,Vegie-spread
+1997,1,64,7,186.20000000000002,Wimmers gute Semmelknödel
+1997,1,65,20,336.0,Louisiana Fiery Hot Pepper Sauce
+1997,1,68,66,660.0,Scottish Longbreads
+1997,1,69,35,1008.0,Gudbrandsdalsost
+1997,1,70,8,96.0,Outback Lager
+1997,1,71,75,1290.0,Flotemysost
+1997,1,73,20,240.0,Röd Kaviar
+1997,1,74,15,120.0,Longlife Tofu
+1997,1,76,34,489.6,Lakkalikööri
+1997,1,77,45,468.0,Original Frankfurter grüne Soße
+1997,2,2,55,836.0,Chang
+1997,2,7,16,384.0,Uncle Bob's Organic Dried Pears
+1997,2,10,34,843.2,Ikura
+1997,2,11,42,705.5999999999999,Queso Cabrales
+1997,2,12,15,456.0,Queso Manchego La Pastora
+1997,2,16,85,1181.5,Pavlova
+1997,2,17,10,312.0,Alice Mutton
+1997,2,19,67,489.1,Teatime Chocolate Biscuits
+1997,2,21,80,640.0,Sir Rodney's Scones
+1997,2,22,12,201.60000000000002,Gustaf's Knäckebröd
+1997,2,24,20,72.0,Guaraná Fantástica
+1997,2,26,51,1269.9,Gumbär Gummibärchen
+1997,2,27,50,1755.0,Schoggi Schokolade
+1997,2,28,57,2074.8,Rössle Sauerkraut
+1997,2,29,24,2376.0,Thüringer Rostbratwurst
+1997,2,30,28,579.6,Nord-Ost Matjeshering
+1997,2,31,3,30.0,Gorgonzola Telino
+1997,2,33,20,40.0,Geitost
+1997,2,34,20,224.0,Sasquatch Ale
+1997,2,35,8,115.2,Steeleye Stout
+1997,2,39,26,374.4,Chartreuse verte
+1997,2,40,20,294.0,Boston Crab Meat
+1997,2,41,30,231.0,Jack's New England Clam Chowder
+1997,2,43,20,736.0,Ipoh Coffee
+1997,2,44,100,1550.0,Gula Malacca
+1997,2,46,35,336.0,Spegesild
+1997,2,48,15,153.0,Chocolade
+1997,2,49,21,336.0,Maxilaku
+1997,2,52,35,196.0,Filo Mix
+1997,2,53,65,1703.0,Perth Pasties
+1997,2,54,101,595.9,Tourtière
+1997,2,55,180,3456.0,Pâté chinois
+1997,2,56,83,2523.2,Gnocchi di nonna Alice
+1997,2,57,15,234.0,Ravioli Angelo
+1997,2,59,36,1584.0,Raclette Courdavault
+1997,2,61,115,2622.0,Sirop d'érable
+1997,2,62,35,1379.0,Tarte au sucre
+1997,2,64,71,1888.6,Wimmers gute Semmelknödel
+1997,2,65,63,1058.4,Louisiana Fiery Hot Pepper Sauce
+1997,2,66,60,816.0,Louisiana Hot Spiced Okra
+1997,2,68,21,210.0,Scottish Longbreads
+1997,2,70,25,300.0,Outback Lager
+1997,2,71,82,1410.4,Flotemysost
+1997,2,72,50,1390.0,Mozzarella di Giovanni
+1997,2,74,30,240.0,Longlife Tofu
+1997,2,75,28,173.60000000000002,Rhönbräu Klosterbier
+1997,2,76,18,259.2,Lakkalikööri
+1997,2,77,55,572.0,Original Frankfurter grüne Soße
+1997,3,1,15,216.0,Chai
+1997,3,2,60,912.0,Chang
+1997,3,3,20,160.0,Aniseed Syrup
+1997,3,4,16,281.6,Chef Anton's Cajun Seasoning
+1997,3,7,30,720.0,Uncle Bob's Organic Dried Pears
+1997,3,10,20,496.0,Ikura
+1997,3,11,30,504.0,Queso Cabrales
+1997,3,13,1,4.8,Konbu
+1997,3,14,12,223.20000000000002,Tofu
+1997,3,16,53,736.7,Pavlova
+1997,3,18,30,1500.0,Carnarvon Tigers
+1997,3,19,26,189.79999999999998,Teatime Chocolate Biscuits
+1997,3,21,35,280.0,Sir Rodney's Scones
+1997,3,23,36,259.20000000000005,Tunnbröd
+1997,3,24,133,478.8,Guaraná Fantástica
+1997,3,25,12,134.39999999999998,NuNuCa Nuß-Nougat-Creme
+1997,3,26,30,747.0,Gumbär Gummibärchen
+1997,3,28,18,655.1999999999999,Rössle Sauerkraut
+1997,3,29,18,1782.0,Thüringer Rostbratwurst
+1997,3,30,8,165.6,Nord-Ost Matjeshering
+1997,3,31,35,350.0,Gorgonzola Telino
+1997,3,33,12,24.0,Geitost
+1997,3,34,35,392.0,Sasquatch Ale
+1997,3,38,30,6324.0,Côte de Blaye
+1997,3,39,20,288.0,Chartreuse verte
+1997,3,40,61,896.7,Boston Crab Meat
+1997,3,42,50,560.0,Singaporean Hokkien Fried Mee
+1997,3,43,18,662.4,Ipoh Coffee
+1997,3,44,17,263.5,Gula Malacca
+1997,3,45,30,228.0,Rogede sild
+1997,3,46,5,48.0,Spegesild
+1997,3,47,30,228.0,Zaanse koeken
+1997,3,49,24,384.0,Maxilaku
+1997,3,50,25,325.0,Valkoinen suklaa
+1997,3,51,46,1950.3999999999999,Manjimup Dried Apples
+1997,3,53,28,733.6,Perth Pasties
+1997,3,54,24,141.60000000000002,Tourtière
+1997,3,55,32,614.4,Pâté chinois
+1997,3,56,50,1520.0,Gnocchi di nonna Alice
+1997,3,59,162,7128.0,Raclette Courdavault
+1997,3,60,60,1632.0,Camembert Pierrot
+1997,3,64,38,1010.8,Wimmers gute Semmelknödel
+1997,3,66,60,816.0,Louisiana Hot Spiced Okra
+1997,3,68,30,300.0,Scottish Longbreads
+1997,3,70,72,864.0,Outback Lager
+1997,3,71,12,206.39999999999998,Flotemysost
+1997,3,73,20,240.0,Röd Kaviar
+1997,3,74,16,128.0,Longlife Tofu
+1997,3,75,46,285.20000000000005,Rhönbräu Klosterbier
+1997,3,76,42,604.8000000000001,Lakkalikööri
+1997,3,77,37,384.8,Original Frankfurter grüne Soße
+1997,4,1,40,720.0,Chai
+1997,4,2,12,228.0,Chang
+1997,4,4,50,1100.0,Chef Anton's Cajun Seasoning
+1997,4,7,50,1500.0,Uncle Bob's Organic Dried Pears
+1997,4,8,34,1360.0,Northwoods Cranberry Sauce
+1997,4,9,16,1552.0,Mishi Kobe Niku
+1997,4,10,16,496.0,Ikura
+1997,4,13,10,60.0,Konbu
+1997,4,14,70,1627.5,Tofu
+1997,4,15,12,186.0,Genen Shouyu
+1997,4,16,50,872.5,Pavlova
+1997,4,18,25,1562.5,Carnarvon Tigers
+1997,4,20,39,3159.0,Sir Rodney's Marmalade
+1997,4,21,52,520.0,Sir Rodney's Scones
+1997,4,23,10,72.0,Tunnbröd
+1997,4,24,37,166.5,Guaraná Fantástica
+1997,4,25,78,924.0,NuNuCa Nuß-Nougat-Creme
+1997,4,27,120,5268.0,Schoggi Schokolade
+1997,4,28,66,3009.6,Rössle Sauerkraut
+1997,4,29,36,4456.4400000000005,Thüringer Rostbratwurst
+1997,4,30,20,517.8,Nord-Ost Matjeshering
+1997,4,31,20,200.0,Gorgonzola Telino
+1997,4,32,50,1600.0,Mascarpone Fabioli
+1997,4,33,16,40.0,Geitost
+1997,4,35,3,54.0,Steeleye Stout
+1997,4,38,15,3952.5,Côte de Blaye
+1997,4,39,10,180.0,Chartreuse verte
+1997,4,40,30,552.0,Boston Crab Meat
+1997,4,41,110,1022.5,Jack's New England Clam Chowder
+1997,4,42,70,924.0,Singaporean Hokkien Fried Mee
+1997,4,43,15,690.0,Ipoh Coffee
+1997,4,44,9,175.04999999999998,Gula Malacca
+1997,4,45,21,199.5,Rogede sild
+1997,4,46,9,108.0,Spegesild
+1997,4,47,6,57.0,Zaanse koeken
+1997,4,48,15,191.25,Chocolade
+1997,4,49,25,500.0,Maxilaku
+1997,4,52,6,42.0,Filo Mix
+1997,4,53,21,688.8,Perth Pasties
+1997,4,54,20,149.0,Tourtière
+1997,4,56,154,5517.6,Gnocchi di nonna Alice
+1997,4,59,4,220.0,Raclette Courdavault
+1997,4,60,106,3604.0,Camembert Pierrot
+1997,4,61,40,1140.0,Sirop d'érable
+1997,4,62,3,147.89999999999998,Tarte au sucre
+1997,4,65,74,1493.95,Louisiana Fiery Hot Pepper Sauce
+1997,4,66,10,136.0,Louisiana Hot Spiced Okra
+1997,4,67,30,420.0,Laughing Lumberjack Lager
+1997,4,68,6,75.0,Scottish Longbreads
+1997,4,69,10,288.0,Gudbrandsdalsost
+1997,4,70,20,300.0,Outback Lager
+1997,4,72,25,695.0,Mozzarella di Giovanni
+1997,4,75,86,666.5,Rhönbräu Klosterbier
+1997,4,77,30,312.0,Original Frankfurter grüne Soße
+1997,5,1,8,144.0,Chai
+1997,5,3,60,600.0,Aniseed Syrup
+1997,5,4,100,2200.0,Chef Anton's Cajun Seasoning
+1997,5,7,10,300.0,Uncle Bob's Organic Dried Pears
+1997,5,10,2,62.0,Ikura
+1997,5,11,93,1953.0,Queso Cabrales
+1997,5,12,45,1710.0,Queso Manchego La Pastora
+1997,5,13,18,108.0,Konbu
+1997,5,16,84,1465.8,Pavlova
+1997,5,17,73,2847.0,Alice Mutton
+1997,5,19,10,92.0,Teatime Chocolate Biscuits
+1997,5,20,15,1215.0,Sir Rodney's Marmalade
+1997,5,21,21,210.0,Sir Rodney's Scones
+1997,5,22,24,504.0,Gustaf's Knäckebröd
+1997,5,23,90,810.0,Tunnbröd
+1997,5,24,35,157.5,Guaraná Fantástica
+1997,5,26,40,1249.2,Gumbär Gummibärchen
+1997,5,28,7,319.2,Rössle Sauerkraut
+1997,5,30,35,906.15,Nord-Ost Matjeshering
+1997,5,31,135,1687.5,Gorgonzola Telino
+1997,5,32,24,768.0,Mascarpone Fabioli
+1997,5,33,53,132.5,Geitost
+1997,5,34,10,140.0,Sasquatch Ale
+1997,5,35,56,1008.0,Steeleye Stout
+1997,5,36,120,2280.0,Inlagd Sill
+1997,5,37,18,468.0,Gravad lax
+1997,5,38,34,8959.0,Côte de Blaye
+1997,5,40,35,644.0,Boston Crab Meat
+1997,5,41,20,193.0,Jack's New England Clam Chowder
+1997,5,43,85,3910.0,Ipoh Coffee
+1997,5,44,40,778.0,Gula Malacca
+1997,5,45,100,950.0,Rogede sild
+1997,5,49,6,120.0,Maxilaku
+1997,5,51,54,2862.0,Manjimup Dried Apples
+1997,5,54,49,365.05,Tourtière
+1997,5,55,14,336.0,Pâté chinois
+1997,5,56,30,1140.0,Gnocchi di nonna Alice
+1997,5,57,5,97.5,Ravioli Angelo
+1997,5,58,20,265.0,Escargots de Bourgogne
+1997,5,59,17,935.0,Raclette Courdavault
+1997,5,60,35,1190.0,Camembert Pierrot
+1997,5,61,30,855.0,Sirop d'érable
+1997,5,62,60,2958.0,Tarte au sucre
+1997,5,65,36,757.8000000000001,Louisiana Fiery Hot Pepper Sauce
+1997,5,66,24,408.0,Louisiana Hot Spiced Okra
+1997,5,67,7,98.0,Laughing Lumberjack Lager
+1997,5,68,55,687.5,Scottish Longbreads
+1997,5,69,28,1008.0,Gudbrandsdalsost
+1997,5,70,7,105.0,Outback Lager
+1997,5,71,9,193.5,Flotemysost
+1997,5,72,55,1913.9999999999998,Mozzarella di Giovanni
+1997,5,73,33,495.0,Röd Kaviar
+1997,5,75,30,232.5,Rhönbräu Klosterbier
+1997,5,76,50,900.0,Lakkalikööri
+1997,5,77,10,130.0,Original Frankfurter grüne Soße
+1997,6,1,10,180.0,Chai
+1997,6,10,5,155.0,Ikura
+1997,6,11,50,1050.0,Queso Cabrales
+1997,6,14,56,1302.0,Tofu
+1997,6,15,10,155.0,Genen Shouyu
+1997,6,16,12,209.39999999999998,Pavlova
+1997,6,17,34,1326.0,Alice Mutton
+1997,6,18,18,1125.0,Carnarvon Tigers
+1997,6,19,35,322.0,Teatime Chocolate Biscuits
+1997,6,24,43,193.5,Guaraná Fantástica
+1997,6,29,10,1237.9,Thüringer Rostbratwurst
+1997,6,30,20,517.8,Nord-Ost Matjeshering
+1997,6,31,171,2137.5,Gorgonzola Telino
+1997,6,32,10,320.0,Mascarpone Fabioli
+1997,6,33,34,85.0,Geitost
+1997,6,34,40,560.0,Sasquatch Ale
+1997,6,35,20,360.0,Steeleye Stout
+1997,6,36,25,475.0,Inlagd Sill
+1997,6,39,10,180.0,Chartreuse verte
+1997,6,40,52,956.7999999999998,Boston Crab Meat
+1997,6,41,21,202.65000000000003,Jack's New England Clam Chowder
+1997,6,42,28,392.0,Singaporean Hokkien Fried Mee
+1997,6,44,31,602.95,Gula Malacca
+1997,6,47,25,237.5,Zaanse koeken
+1997,6,51,93,4929.0,Manjimup Dried Apples
+1997,6,52,100,700.0,Filo Mix
+1997,6,53,43,1410.3999999999999,Perth Pasties
+1997,6,55,43,1032.0,Pâté chinois
+1997,6,56,100,3800.0,Gnocchi di nonna Alice
+1997,6,57,10,195.0,Ravioli Angelo
+1997,6,59,52,2860.0,Raclette Courdavault
+1997,6,60,24,816.0,Camembert Pierrot
+1997,6,62,35,1725.5,Tarte au sucre
+1997,6,63,6,263.4,Vegie-spread
+1997,6,64,54,1795.5,Wimmers gute Semmelknödel
+1997,6,65,30,631.5,Louisiana Fiery Hot Pepper Sauce
+1997,6,69,10,360.0,Gudbrandsdalsost
+1997,6,72,54,1879.1999999999998,Mozzarella di Giovanni
+1997,6,73,3,45.0,Röd Kaviar
+1997,6,75,126,976.5,Rhönbräu Klosterbier
+1997,6,76,64,1152.0,Lakkalikööri
+1997,6,77,18,234.0,Original Frankfurter grüne Soße
+1997,7,1,29,522.0,Chai
+1997,7,2,10,190.0,Chang
+1997,7,3,14,140.0,Aniseed Syrup
+1997,7,4,20,440.0,Chef Anton's Cajun Seasoning
+1997,7,7,55,1650.0,Uncle Bob's Organic Dried Pears
+1997,7,10,80,2480.0,Ikura
+1997,7,11,14,294.0,Queso Cabrales
+1997,7,13,68,408.0,Konbu
+1997,7,15,25,387.5,Genen Shouyu
+1997,7,16,30,523.5,Pavlova
+1997,7,17,100,3900.0,Alice Mutton
+1997,7,18,40,2500.0,Carnarvon Tigers
+1997,7,20,21,1701.0,Sir Rodney's Marmalade
+1997,7,21,14,140.0,Sir Rodney's Scones
+1997,7,22,48,1008.0,Gustaf's Knäckebröd
+1997,7,24,35,157.5,Guaraná Fantástica
+1997,7,26,11,343.53,Gumbär Gummibärchen
+1997,7,27,50,2195.0,Schoggi Schokolade
+1997,7,33,14,35.0,Geitost
+1997,7,35,54,972.0,Steeleye Stout
+1997,7,36,76,1444.0,Inlagd Sill
+1997,7,38,15,3952.5,Côte de Blaye
+1997,7,39,5,90.0,Chartreuse verte
+1997,7,40,42,772.8,Boston Crab Meat
+1997,7,42,100,1400.0,Singaporean Hokkien Fried Mee
+1997,7,47,15,142.5,Zaanse koeken
+1997,7,48,6,76.5,Chocolade
+1997,7,49,43,860.0,Maxilaku
+1997,7,52,28,196.0,Filo Mix
+1997,7,54,54,402.3,Tourtière
+1997,7,55,25,600.0,Pâté chinois
+1997,7,56,47,1786.0,Gnocchi di nonna Alice
+1997,7,57,20,390.0,Ravioli Angelo
+1997,7,58,30,397.5,Escargots de Bourgogne
+1997,7,59,85,4675.0,Raclette Courdavault
+1997,7,60,125,4250.0,Camembert Pierrot
+1997,7,61,120,3420.0,Sirop d'érable
+1997,7,62,20,986.0,Tarte au sucre
+1997,7,63,24,1053.6,Vegie-spread
+1997,7,65,12,252.60000000000002,Louisiana Fiery Hot Pepper Sauce
+1997,7,69,85,3060.0,Gudbrandsdalsost
+1997,7,70,15,225.0,Outback Lager
+1997,7,71,39,838.5,Flotemysost
+1997,7,72,12,417.59999999999997,Mozzarella di Giovanni
+1997,7,73,30,450.0,Röd Kaviar
+1997,7,75,70,542.5,Rhönbräu Klosterbier
+1997,7,76,94,1692.0,Lakkalikööri
+1997,7,77,85,1105.0,Original Frankfurter grüne Soße
+1997,8,1,40,720.0,Chai
+1997,8,2,100,1900.0,Chang
+1997,8,4,35,770.0,Chef Anton's Cajun Seasoning
+1997,8,5,15,320.25,Chef Anton's Gumbo Mix
+1997,8,6,70,1750.0,Grandma's Boysenberry Spread
+1997,8,7,35,1050.0,Uncle Bob's Organic Dried Pears
+1997,8,10,18,558.0,Ikura
+1997,8,11,10,210.0,Queso Cabrales
+1997,8,12,36,1368.0,Queso Manchego La Pastora
+1997,8,13,13,78.0,Konbu
+1997,8,14,24,558.0,Tofu
+1997,8,18,82,5125.0,Carnarvon Tigers
+1997,8,19,50,460.0,Teatime Chocolate Biscuits
+1997,8,21,97,970.0,Sir Rodney's Scones
+1997,8,22,95,1995.0,Gustaf's Knäckebröd
+1997,8,23,10,90.0,Tunnbröd
+1997,8,24,23,103.5,Guaraná Fantástica
+1997,8,26,35,1093.05,Gumbär Gummibärchen
+1997,8,28,45,2052.0,Rössle Sauerkraut
+1997,8,29,26,3218.54,Thüringer Rostbratwurst
+1997,8,30,30,776.7,Nord-Ost Matjeshering
+1997,8,33,20,50.0,Geitost
+1997,8,35,30,540.0,Steeleye Stout
+1997,8,36,15,285.0,Inlagd Sill
+1997,8,39,41,738.0,Chartreuse verte
+1997,8,40,60,1104.0,Boston Crab Meat
+1997,8,42,5,70.0,Singaporean Hokkien Fried Mee
+1997,8,43,20,920.0,Ipoh Coffee
+1997,8,44,10,194.5,Gula Malacca
+1997,8,45,20,190.0,Rogede sild
+1997,8,46,23,276.0,Spegesild
+1997,8,50,25,406.25,Valkoinen suklaa
+1997,8,51,15,795.0,Manjimup Dried Apples
+1997,8,52,5,35.0,Filo Mix
+1997,8,53,37,1213.6,Perth Pasties
+1997,8,54,30,223.5,Tourtière
+1997,8,55,12,288.0,Pâté chinois
+1997,8,56,80,3040.0,Gnocchi di nonna Alice
+1997,8,58,6,79.5,Escargots de Bourgogne
+1997,8,60,30,1020.0,Camembert Pierrot
+1997,8,61,20,570.0,Sirop d'érable
+1997,8,62,95,4683.5,Tarte au sucre
+1997,8,64,9,299.25,Wimmers gute Semmelknödel
+1997,8,65,21,442.05,Louisiana Fiery Hot Pepper Sauce
+1997,8,68,33,412.5,Scottish Longbreads
+1997,8,69,20,720.0,Gudbrandsdalsost
+1997,8,70,35,525.0,Outback Lager
+1997,8,71,65,1397.5,Flotemysost
+1997,8,72,75,2610.0,Mozzarella di Giovanni
+1997,8,73,35,525.0,Röd Kaviar
+1997,8,75,10,77.5,Rhönbräu Klosterbier
+1997,8,76,35,630.0,Lakkalikööri
+1997,8,77,35,455.0,Original Frankfurter grüne Soße
+1997,9,4,12,264.0,Chef Anton's Cajun Seasoning
+1997,9,9,50,4850.0,Mishi Kobe Niku
+1997,9,10,46,1426.0,Ikura
+1997,9,12,100,3800.0,Queso Manchego La Pastora
+1997,9,14,33,767.25,Tofu
+1997,9,15,50,775.0,Genen Shouyu
+1997,9,16,93,1622.85,Pavlova
+1997,9,17,30,1170.0,Alice Mutton
+1997,9,19,49,450.79999999999995,Teatime Chocolate Biscuits
+1997,9,20,21,1701.0,Sir Rodney's Marmalade
+1997,9,21,72,720.0,Sir Rodney's Scones
+1997,9,22,20,420.0,Gustaf's Knäckebröd
+1997,9,23,37,333.0,Tunnbröd
+1997,9,26,45,1405.35,Gumbär Gummibärchen
+1997,9,29,46,5694.34,Thüringer Rostbratwurst
+1997,9,30,2,51.78,Nord-Ost Matjeshering
+1997,9,31,48,600.0,Gorgonzola Telino
+1997,9,33,68,170.0,Geitost
+1997,9,36,36,684.0,Inlagd Sill
+1997,9,38,15,3952.5,Côte de Blaye
+1997,9,39,23,414.0,Chartreuse verte
+1997,9,40,144,2649.6,Boston Crab Meat
+1997,9,41,168,1621.1999999999998,Jack's New England Clam Chowder
+1997,9,42,96,1344.0,Singaporean Hokkien Fried Mee
+1997,9,43,6,276.0,Ipoh Coffee
+1997,9,44,49,953.05,Gula Malacca
+1997,9,46,105,1260.0,Spegesild
+1997,9,47,71,674.5,Zaanse koeken
+1997,9,51,40,2120.0,Manjimup Dried Apples
+1997,9,52,9,63.0,Filo Mix
+1997,9,53,10,328.0,Perth Pasties
+1997,9,54,36,268.2,Tourtière
+1997,9,55,4,96.0,Pâté chinois
+1997,9,56,57,2166.0,Gnocchi di nonna Alice
+1997,9,58,79,1046.75,Escargots de Bourgogne
+1997,9,59,13,715.0,Raclette Courdavault
+1997,9,60,135,4590.0,Camembert Pierrot
+1997,9,62,10,493.0,Tarte au sucre
+1997,9,64,43,1429.75,Wimmers gute Semmelknödel
+1997,9,65,37,778.85,Louisiana Fiery Hot Pepper Sauce
+1997,9,66,4,68.0,Louisiana Hot Spiced Okra
+1997,9,67,25,350.0,Laughing Lumberjack Lager
+1997,9,68,10,125.0,Scottish Longbreads
+1997,9,69,45,1620.0,Gudbrandsdalsost
+1997,9,70,40,600.0,Outback Lager
+1997,9,71,26,559.0,Flotemysost
+1997,9,73,50,750.0,Röd Kaviar
+1997,9,75,55,426.25,Rhönbräu Klosterbier
+1997,9,76,10,180.0,Lakkalikööri
+1997,9,77,70,910.0,Original Frankfurter grüne Soße
+1997,10,1,70,1260.0,Chai
+1997,10,2,38,722.0,Chang
+1997,10,3,6,60.0,Aniseed Syrup
+1997,10,4,6,132.0,Chef Anton's Cajun Seasoning
+1997,10,5,4,85.4,Chef Anton's Gumbo Mix
+1997,10,7,90,2700.0,Uncle Bob's Organic Dried Pears
+1997,10,8,50,2000.0,Northwoods Cranberry Sauce
+1997,10,9,6,582.0,Mishi Kobe Niku
+1997,10,10,73,2263.0,Ikura
+1997,10,11,15,315.0,Queso Cabrales
+1997,10,12,40,1520.0,Queso Manchego La Pastora
+1997,10,16,40,698.0,Pavlova
+1997,10,17,55,2145.0,Alice Mutton
+1997,10,18,12,750.0,Carnarvon Tigers
+1997,10,19,24,220.79999999999998,Teatime Chocolate Biscuits
+1997,10,21,37,370.0,Sir Rodney's Scones
+1997,10,24,55,247.5,Guaraná Fantástica
+1997,10,26,45,1405.35,Gumbär Gummibärchen
+1997,10,28,60,2736.0,Rössle Sauerkraut
+1997,10,29,52,6437.08,Thüringer Rostbratwurst
+1997,10,30,3,77.67,Nord-Ost Matjeshering
+1997,10,31,70,875.0,Gorgonzola Telino
+1997,10,32,4,128.0,Mascarpone Fabioli
+1997,10,34,26,364.0,Sasquatch Ale
+1997,10,35,30,540.0,Steeleye Stout
+1997,10,36,45,855.0,Inlagd Sill
+1997,10,41,54,521.1,Jack's New England Clam Chowder
+1997,10,43,64,2944.0,Ipoh Coffee
+1997,10,44,74,1439.3,Gula Malacca
+1997,10,45,110,1045.0,Rogede sild
+1997,10,46,42,504.0,Spegesild
+1997,10,47,67,636.5,Zaanse koeken
+1997,10,48,24,306.0,Chocolade
+1997,10,51,35,1855.0,Manjimup Dried Apples
+1997,10,52,4,28.0,Filo Mix
+1997,10,53,123,4034.3999999999996,Perth Pasties
+1997,10,54,115,856.75,Tourtière
+1997,10,55,27,648.0,Pâté chinois
+1997,10,56,68,2584.0,Gnocchi di nonna Alice
+1997,10,57,40,780.0,Ravioli Angelo
+1997,10,58,42,556.5,Escargots de Bourgogne
+1997,10,59,110,6050.0,Raclette Courdavault
+1997,10,60,10,340.0,Camembert Pierrot
+1997,10,61,15,427.5,Sirop d'érable
+1997,10,62,68,3352.3999999999996,Tarte au sucre
+1997,10,63,20,878.0,Vegie-spread
+1997,10,65,65,1368.25,Louisiana Fiery Hot Pepper Sauce
+1997,10,68,85,1062.5,Scottish Longbreads
+1997,10,69,55,1980.0,Gudbrandsdalsost
+1997,10,70,116,1740.0,Outback Lager
+1997,10,71,118,2537.0,Flotemysost
+1997,10,73,50,750.0,Röd Kaviar
+1997,10,75,42,325.5,Rhönbräu Klosterbier
+1997,10,76,50,900.0,Lakkalikööri
+1997,10,77,30,390.0,Original Frankfurter grüne Soße
+1997,11,1,58,1044.0,Chai
+1997,11,2,15,285.0,Chang
+1997,11,3,20,200.0,Aniseed Syrup
+1997,11,4,25,550.0,Chef Anton's Cajun Seasoning
+1997,11,6,30,750.0,Grandma's Boysenberry Spread
+1997,11,11,5,105.0,Queso Cabrales
+1997,11,13,10,60.0,Konbu
+1997,11,14,21,488.25,Tofu
+1997,11,16,18,314.1,Pavlova
+1997,11,17,20,780.0,Alice Mutton
+1997,11,18,45,2812.5,Carnarvon Tigers
+1997,11,21,70,700.0,Sir Rodney's Scones
+1997,11,23,44,396.0,Tunnbröd
+1997,11,26,32,999.36,Gumbär Gummibärchen
+1997,11,28,25,1140.0,Rössle Sauerkraut
+1997,11,30,60,1553.4,Nord-Ost Matjeshering
+1997,11,31,11,137.5,Gorgonzola Telino
+1997,11,32,10,320.0,Mascarpone Fabioli
+1997,11,34,30,420.0,Sasquatch Ale
+1997,11,35,35,630.0,Steeleye Stout
+1997,11,36,26,494.0,Inlagd Sill
+1997,11,40,99,1821.6,Boston Crab Meat
+1997,11,41,47,453.55,Jack's New England Clam Chowder
+1997,11,42,28,392.0,Singaporean Hokkien Fried Mee
+1997,11,44,16,311.2,Gula Malacca
+1997,11,45,84,798.0,Rogede sild
+1997,11,46,28,336.0,Spegesild
+1997,11,47,30,285.0,Zaanse koeken
+1997,11,50,60,975.0,Valkoinen suklaa
+1997,11,51,30,1590.0,Manjimup Dried Apples
+1997,11,52,103,721.0,Filo Mix
+1997,11,55,12,288.0,Pâté chinois
+1997,11,56,97,3686.0,Gnocchi di nonna Alice
+1997,11,57,14,273.0,Ravioli Angelo
+1997,11,59,93,5115.0,Raclette Courdavault
+1997,11,60,65,2210.0,Camembert Pierrot
+1997,11,61,20,570.0,Sirop d'érable
+1997,11,62,39,1922.7,Tarte au sucre
+1997,11,63,9,395.09999999999997,Vegie-spread
+1997,11,64,24,798.0,Wimmers gute Semmelknödel
+1997,11,65,50,1052.5,Louisiana Fiery Hot Pepper Sauce
+1997,11,68,6,75.0,Scottish Longbreads
+1997,11,69,118,4248.0,Gudbrandsdalsost
+1997,11,70,40,600.0,Outback Lager
+1997,11,72,42,1461.6,Mozzarella di Giovanni
+1997,11,73,15,225.0,Röd Kaviar
+1997,11,74,5,50.0,Longlife Tofu
+1997,11,75,20,155.0,Rhönbräu Klosterbier
+1997,11,76,50,900.0,Lakkalikööri
+1997,11,77,2,26.0,Original Frankfurter grüne Soße
+1997,12,2,85,1615.0,Chang
+1997,12,3,20,200.0,Aniseed Syrup
+1997,12,7,38,1140.0,Uncle Bob's Organic Dried Pears
+1997,12,8,30,1200.0,Northwoods Cranberry Sauce
+1997,12,10,52,1612.0,Ikura
+1997,12,11,85,1785.0,Queso Cabrales
+1997,12,13,20,120.0,Konbu
+1997,12,14,15,348.75,Tofu
+1997,12,16,85,1483.25,Pavlova
+1997,12,17,108,4212.0,Alice Mutton
+1997,12,18,30,1875.0,Carnarvon Tigers
+1997,12,19,74,680.8,Teatime Chocolate Biscuits
+1997,12,21,40,400.0,Sir Rodney's Scones
+1997,12,22,10,210.0,Gustaf's Knäckebröd
+1997,12,24,40,180.0,Guaraná Fantástica
+1997,12,25,62,868.0,NuNuCa Nuß-Nougat-Creme
+1997,12,26,21,655.83,Gumbär Gummibärchen
+1997,12,27,40,1756.0,Schoggi Schokolade
+1997,12,28,24,1094.4,Rössle Sauerkraut
+1997,12,29,72,8912.880000000001,Thüringer Rostbratwurst
+1997,12,30,40,1035.6,Nord-Ost Matjeshering
+1997,12,31,149,1862.5,Gorgonzola Telino
+1997,12,34,10,140.0,Sasquatch Ale
+1997,12,35,15,270.0,Steeleye Stout
+1997,12,36,30,570.0,Inlagd Sill
+1997,12,38,15,3952.5,Côte de Blaye
+1997,12,39,148,2664.0,Chartreuse verte
+1997,12,40,1,18.4,Boston Crab Meat
+1997,12,41,74,714.1,Jack's New England Clam Chowder
+1997,12,42,34,476.0,Singaporean Hokkien Fried Mee
+1997,12,43,30,1380.0,Ipoh Coffee
+1997,12,44,10,194.5,Gula Malacca
+1997,12,45,27,256.5,Rogede sild
+1997,12,47,30,285.0,Zaanse koeken
+1997,12,49,4,80.0,Maxilaku
+1997,12,51,188,9964.0,Manjimup Dried Apples
+1997,12,52,23,161.0,Filo Mix
+1997,12,54,19,141.55,Tourtière
+1997,12,55,60,1440.0,Pâté chinois
+1997,12,56,100,3800.0,Gnocchi di nonna Alice
+1997,12,59,65,3575.0,Raclette Courdavault
+1997,12,60,15,510.0,Camembert Pierrot
+1997,12,61,20,570.0,Sirop d'érable
+1997,12,62,42,2070.6,Tarte au sucre
+1997,12,63,30,1317.0,Vegie-spread
+1997,12,64,35,1163.75,Wimmers gute Semmelknödel
+1997,12,65,82,1726.1,Louisiana Fiery Hot Pepper Sauce
+1997,12,66,50,850.0,Louisiana Hot Spiced Okra
+1997,12,67,3,42.0,Laughing Lumberjack Lager
+1997,12,68,73,912.5,Scottish Longbreads
+1997,12,69,24,864.0,Gudbrandsdalsost
+1997,12,70,35,525.0,Outback Lager
+1997,12,71,28,602.0,Flotemysost
+1997,12,72,40,1392.0,Mozzarella di Giovanni
+1997,12,74,50,500.0,Longlife Tofu
+1997,12,75,117,906.75,Rhönbräu Klosterbier
+1997,12,77,15,195.0,Original Frankfurter grüne Soße
+1998,1,1,84,1512.0,Chai
+1998,1,2,62,1178.0,Chang
+1998,1,3,79,790.0,Aniseed Syrup
+1998,1,4,21,462.0,Chef Anton's Cajun Seasoning
+1998,1,5,30,640.5,Chef Anton's Gumbo Mix
+1998,1,6,6,150.0,Grandma's Boysenberry Spread
+1998,1,7,25,750.0,Uncle Bob's Organic Dried Pears
+1998,1,8,20,800.0,Northwoods Cranberry Sauce
+1998,1,9,3,291.0,Mishi Kobe Niku
+1998,1,10,131,4061.0,Ikura
+1998,1,11,60,1260.0,Queso Cabrales
+1998,1,13,91,546.0,Konbu
+1998,1,16,50,872.5,Pavlova
+1998,1,17,48,1872.0,Alice Mutton
+1998,1,18,55,3437.5,Carnarvon Tigers
+1998,1,19,29,266.8,Teatime Chocolate Biscuits
+1998,1,20,5,405.0,Sir Rodney's Marmalade
+1998,1,21,40,400.0,Sir Rodney's Scones
+1998,1,22,87,1827.0,Gustaf's Knäckebröd
+1998,1,23,88,792.0,Tunnbröd
+1998,1,24,40,180.0,Guaraná Fantástica
+1998,1,25,51,714.0,NuNuCa Nuß-Nougat-Creme
+1998,1,26,105,3279.1499999999996,Gumbär Gummibärchen
+1998,1,27,10,439.0,Schoggi Schokolade
+1998,1,29,18,2228.2200000000003,Thüringer Rostbratwurst
+1998,1,30,20,517.8,Nord-Ost Matjeshering
+1998,1,31,74,925.0,Gorgonzola Telino
+1998,1,32,20,640.0,Mascarpone Fabioli
+1998,1,33,55,137.5,Geitost
+1998,1,35,59,1062.0,Steeleye Stout
+1998,1,36,50,950.0,Inlagd Sill
+1998,1,37,60,1560.0,Gravad lax
+1998,1,38,70,18445.0,Côte de Blaye
+1998,1,39,59,1062.0,Chartreuse verte
+1998,1,40,115,2116.0,Boston Crab Meat
+1998,1,41,52,501.8,Jack's New England Clam Chowder
+1998,1,42,62,868.0,Singaporean Hokkien Fried Mee
+1998,1,43,41,1886.0,Ipoh Coffee
+1998,1,44,16,311.2,Gula Malacca
+1998,1,45,36,342.0,Rogede sild
+1998,1,46,35,420.0,Spegesild
+1998,1,47,40,380.0,Zaanse koeken
+1998,1,48,8,102.0,Chocolade
+1998,1,51,13,689.0,Manjimup Dried Apples
+1998,1,52,28,196.0,Filo Mix
+1998,1,53,29,951.2,Perth Pasties
+1998,1,54,35,260.75,Tourtière
+1998,1,56,104,3952.0,Gnocchi di nonna Alice
+1998,1,57,64,1248.0,Ravioli Angelo
+1998,1,58,90,1192.5,Escargots de Bourgogne
+1998,1,59,147,8085.0,Raclette Courdavault
+1998,1,60,156,5304.0,Camembert Pierrot
+1998,1,61,30,855.0,Sirop d'érable
+1998,1,62,101,4979.299999999999,Tarte au sucre
+1998,1,64,111,3690.75,Wimmers gute Semmelknödel
+1998,1,65,15,315.75,Louisiana Fiery Hot Pepper Sauce
+1998,1,68,44,550.0,Scottish Longbreads
+1998,1,70,96,1440.0,Outback Lager
+1998,1,71,55,1182.5,Flotemysost
+1998,1,72,55,1914.0,Mozzarella di Giovanni
+1998,1,74,20,200.0,Longlife Tofu
+1998,1,75,20,155.0,Rhönbräu Klosterbier
+1998,1,76,91,1638.0,Lakkalikööri
+1998,1,77,52,676.0,Original Frankfurter grüne Soße
+1998,2,1,90,1620.0,Chai
+1998,2,2,61,1159.0,Chang
+1998,2,4,30,660.0,Chef Anton's Cajun Seasoning
+1998,2,6,50,1250.0,Grandma's Boysenberry Spread
+1998,2,7,32,960.0,Uncle Bob's Organic Dried Pears
+1998,2,8,30,1200.0,Northwoods Cranberry Sauce
+1998,2,10,80,2480.0,Ikura
+1998,2,11,90,1890.0,Queso Cabrales
+1998,2,13,73,438.0,Konbu
+1998,2,16,63,1099.35,Pavlova
+1998,2,17,53,2067.0,Alice Mutton
+1998,2,18,25,1562.5,Carnarvon Tigers
+1998,2,19,37,340.4,Teatime Chocolate Biscuits
+1998,2,20,20,1620.0,Sir Rodney's Marmalade
+1998,2,21,60,600.0,Sir Rodney's Scones
+1998,2,23,80,720.0,Tunnbröd
+1998,2,24,146,657.0,Guaraná Fantástica
+1998,2,25,5,70.0,NuNuCa Nuß-Nougat-Creme
+1998,2,26,20,624.6,Gumbär Gummibärchen
+1998,2,28,3,136.8,Rössle Sauerkraut
+1998,2,29,164,20301.56,Thüringer Rostbratwurst
+1998,2,30,126,3262.14,Nord-Ost Matjeshering
+1998,2,31,35,437.5,Gorgonzola Telino
+1998,2,32,6,192.0,Mascarpone Fabioli
+1998,2,33,70,175.0,Geitost
+1998,2,34,10,140.0,Sasquatch Ale
+1998,2,35,37,666.0,Steeleye Stout
+1998,2,36,20,380.0,Inlagd Sill
+1998,2,38,100,26350.0,Côte de Blaye
+1998,2,39,133,2394.0,Chartreuse verte
+1998,2,40,103,1895.1999999999998,Boston Crab Meat
+1998,2,41,49,472.85,Jack's New England Clam Chowder
+1998,2,42,25,350.0,Singaporean Hokkien Fried Mee
+1998,2,45,15,142.5,Rogede sild
+1998,2,46,21,252.0,Spegesild
+1998,2,47,21,199.5,Zaanse koeken
+1998,2,49,87,1740.0,Maxilaku
+1998,2,51,2,106.0,Manjimup Dried Apples
+1998,2,52,14,98.0,Filo Mix
+1998,2,53,3,98.39999999999999,Perth Pasties
+1998,2,54,42,312.9,Tourtière
+1998,2,55,40,960.0,Pâté chinois
+1998,2,56,37,1406.0,Gnocchi di nonna Alice
+1998,2,57,20,390.0,Ravioli Angelo
+1998,2,58,42,556.5,Escargots de Bourgogne
+1998,2,59,40,2200.0,Raclette Courdavault
+1998,2,60,100,3400.0,Camembert Pierrot
+1998,2,61,50,1425.0,Sirop d'érable
+1998,2,62,61,3007.3,Tarte au sucre
+1998,2,64,35,1163.75,Wimmers gute Semmelknödel
+1998,2,65,64,1347.2,Louisiana Fiery Hot Pepper Sauce
+1998,2,67,30,420.0,Laughing Lumberjack Lager
+1998,2,68,58,725.0,Scottish Longbreads
+1998,2,69,50,1800.0,Gudbrandsdalsost
+1998,2,70,83,1245.0,Outback Lager
+1998,2,71,55,1182.5,Flotemysost
+1998,2,73,10,150.0,Röd Kaviar
+1998,2,75,134,1038.5,Rhönbräu Klosterbier
+1998,2,76,10,180.0,Lakkalikööri
+1998,2,77,65,845.0,Original Frankfurter grüne Soße
+1998,3,1,81,1458.0,Chai
+1998,3,2,10,190.0,Chang
+1998,3,4,5,110.0,Chef Anton's Cajun Seasoning
+1998,3,5,20,427.0,Chef Anton's Gumbo Mix
+1998,3,6,88,2200.0,Grandma's Boysenberry Spread
+1998,3,7,217,6510.0,Uncle Bob's Organic Dried Pears
+1998,3,8,36,1440.0,Northwoods Cranberry Sauce
+1998,3,10,75,2325.0,Ikura
+1998,3,11,52,1092.0,Queso Cabrales
+1998,3,12,50,1900.0,Queso Manchego La Pastora
+1998,3,13,288,1728.0,Konbu
+1998,3,16,173,3018.8499999999995,Pavlova
+1998,3,17,27,1053.0,Alice Mutton
+1998,3,18,18,1125.0,Carnarvon Tigers
+1998,3,19,19,174.79999999999998,Teatime Chocolate Biscuits
+1998,3,20,70,5670.0,Sir Rodney's Marmalade
+1998,3,21,148,1480.0,Sir Rodney's Scones
+1998,3,22,21,441.0,Gustaf's Knäckebröd
+1998,3,23,8,72.0,Tunnbröd
+1998,3,24,200,900.0,Guaraná Fantástica
+1998,3,25,24,336.0,NuNuCa Nuß-Nougat-Creme
+1998,3,26,5,156.15,Gumbär Gummibärchen
+1998,3,27,55,2414.5,Schoggi Schokolade
+1998,3,28,60,2736.0,Rössle Sauerkraut
+1998,3,29,14,1733.0600000000002,Thüringer Rostbratwurst
+1998,3,30,31,802.59,Nord-Ost Matjeshering
+1998,3,31,153,1912.5,Gorgonzola Telino
+1998,3,32,35,1120.0,Mascarpone Fabioli
+1998,3,33,22,55.0,Geitost
+1998,3,34,20,280.0,Sasquatch Ale
+1998,3,35,50,900.0,Steeleye Stout
+1998,3,36,95,1805.0,Inlagd Sill
+1998,3,37,8,208.0,Gravad lax
+1998,3,38,65,17127.5,Côte de Blaye
+1998,3,39,30,540.0,Chartreuse verte
+1998,3,40,30,552.0,Boston Crab Meat
+1998,3,41,40,386.0,Jack's New England Clam Chowder
+1998,3,42,10,140.0,Singaporean Hokkien Fried Mee
+1998,3,43,49,2254.0,Ipoh Coffee
+1998,3,44,24,466.79999999999995,Gula Malacca
+1998,3,45,30,285.0,Rogede sild
+1998,3,46,24,288.0,Spegesild
+1998,3,47,49,465.5,Zaanse koeken
+1998,3,49,68,1360.0,Maxilaku
+1998,3,50,33,536.25,Valkoinen suklaa
+1998,3,51,74,3922.0,Manjimup Dried Apples
+1998,3,52,63,441.0,Filo Mix
+1998,3,53,22,721.6,Perth Pasties
+1998,3,55,29,696.0,Pâté chinois
+1998,3,56,30,1140.0,Gnocchi di nonna Alice
+1998,3,57,45,877.5,Ravioli Angelo
+1998,3,58,30,397.5,Escargots de Bourgogne
+1998,3,59,4,220.0,Raclette Courdavault
+1998,3,60,110,3740.0,Camembert Pierrot
+1998,3,61,30,855.0,Sirop d'érable
+1998,3,62,156,7690.799999999999,Tarte au sucre
+1998,3,63,105,4609.5,Vegie-spread
+1998,3,64,12,399.0,Wimmers gute Semmelknödel
+1998,3,67,64,896.0,Laughing Lumberjack Lager
+1998,3,68,80,1000.0,Scottish Longbreads
+1998,3,69,19,684.0,Gudbrandsdalsost
+1998,3,71,35,752.5,Flotemysost
+1998,3,72,101,3514.7999999999997,Mozzarella di Giovanni
+1998,3,75,217,1681.75,Rhönbräu Klosterbier
+1998,3,76,139,2502.0,Lakkalikööri
+1998,3,77,70,910.0,Original Frankfurter grüne Soße
+1998,4,1,104,1872.0,Chai
+1998,4,2,201,3819.0,Chang
+1998,4,3,25,250.0,Aniseed Syrup
+1998,4,4,25,550.0,Chef Anton's Cajun Seasoning
+1998,4,5,100,2135.0,Chef Anton's Gumbo Mix
+1998,4,7,124,3720.0,Uncle Bob's Organic Dried Pears
+1998,4,8,30,1200.0,Northwoods Cranberry Sauce
+1998,4,10,24,744.0,Ikura
+1998,4,11,10,210.0,Queso Cabrales
+1998,4,12,44,1672.0,Queso Manchego La Pastora
+1998,4,13,193,1158.0,Konbu
+1998,4,17,12,468.0,Alice Mutton
+1998,4,18,53,3312.5,Carnarvon Tigers
+1998,4,19,85,782.0,Teatime Chocolate Biscuits
+1998,4,20,15,1215.0,Sir Rodney's Marmalade
+1998,4,21,103,1030.0,Sir Rodney's Scones
+1998,4,22,25,525.0,Gustaf's Knäckebröd
+1998,4,23,10,90.0,Tunnbröd
+1998,4,24,140,630.0,Guaraná Fantástica
+1998,4,25,15,210.0,NuNuCa Nuß-Nougat-Creme
+1998,4,26,81,2529.63,Gumbär Gummibärchen
+1998,4,28,90,4104.0,Rössle Sauerkraut
+1998,4,29,122,15102.380000000001,Thüringer Rostbratwurst
+1998,4,30,15,388.35,Nord-Ost Matjeshering
+1998,4,31,15,187.5,Gorgonzola Telino
+1998,4,32,85,2720.0,Mascarpone Fabioli
+1998,4,33,55,137.5,Geitost
+1998,4,34,180,2520.0,Sasquatch Ale
+1998,4,35,117,2106.0,Steeleye Stout
+1998,4,36,69,1311.0,Inlagd Sill
+1998,4,38,25,6587.5,Côte de Blaye
+1998,4,40,55,1012.0,Boston Crab Meat
+1998,4,41,113,1090.45,Jack's New England Clam Chowder
+1998,4,42,112,1568.0,Singaporean Hokkien Fried Mee
+1998,4,43,60,2760.0,Ipoh Coffee
+1998,4,44,27,525.15,Gula Malacca
+1998,4,45,20,190.0,Rogede sild
+1998,4,46,48,576.0,Spegesild
+1998,4,49,62,1240.0,Maxilaku
+1998,4,51,133,7049.0,Manjimup Dried Apples
+1998,4,52,32,224.0,Filo Mix
+1998,4,53,80,2624.0,Perth Pasties
+1998,4,54,10,74.5,Tourtière
+1998,4,55,181,4344.0,Pâté chinois
+1998,4,56,25,950.0,Gnocchi di nonna Alice
+1998,4,57,48,936.0,Ravioli Angelo
+1998,4,58,40,530.0,Escargots de Bourgogne
+1998,4,59,322,17710.0,Raclette Courdavault
+1998,4,60,174,5916.0,Camembert Pierrot
+1998,4,61,97,2764.5,Sirop d'érable
+1998,4,62,33,1626.8999999999999,Tarte au sucre
+1998,4,63,42,1843.8,Vegie-spread
+1998,4,64,45,1496.25,Wimmers gute Semmelknödel
+1998,4,65,21,442.05,Louisiana Fiery Hot Pepper Sauce
+1998,4,67,20,280.0,Laughing Lumberjack Lager
+1998,4,68,44,550.0,Scottish Longbreads
+1998,4,69,66,2376.0,Gudbrandsdalsost
+1998,4,70,69,1035.0,Outback Lager
+1998,4,71,197,4235.5,Flotemysost
+1998,4,72,37,1287.6,Mozzarella di Giovanni
+1998,4,74,20,200.0,Longlife Tofu
+1998,4,75,30,232.5,Rhönbräu Klosterbier
+1998,4,76,146,2628.0,Lakkalikööri
+1998,4,77,79,1027.0,Original Frankfurter grüne Soße
+1998,5,1,40,720.0,Chai
+1998,5,2,62,1178.0,Chang
+1998,5,3,4,40.0,Aniseed Syrup
+1998,5,4,1,22.0,Chef Anton's Cajun Seasoning
+1998,5,6,21,525.0,Grandma's Boysenberry Spread
+1998,5,7,16,480.0,Uncle Bob's Organic Dried Pears
+1998,5,8,2,80.0,Northwoods Cranberry Sauce
+1998,5,10,1,31.0,Ikura
+1998,5,11,10,210.0,Queso Cabrales
+1998,5,12,2,76.0,Queso Manchego La Pastora
+1998,5,13,14,84.0,Konbu
+1998,5,14,21,488.25,Tofu
+1998,5,16,49,855.05,Pavlova
+1998,5,17,77,3003.0,Alice Mutton
+1998,5,19,52,478.4,Teatime Chocolate Biscuits
+1998,5,20,1,81.0,Sir Rodney's Marmalade
+1998,5,23,2,18.0,Tunnbröd
+1998,5,24,20,90.0,Guaraná Fantástica
+1998,5,28,8,364.8,Rössle Sauerkraut
+1998,5,30,4,103.56,Nord-Ost Matjeshering
+1998,5,31,20,250.0,Gorgonzola Telino
+1998,5,32,1,32.0,Mascarpone Fabioli
+1998,5,34,35,490.0,Sasquatch Ale
+1998,5,39,22,396.0,Chartreuse verte
+1998,5,41,64,617.6000000000001,Jack's New England Clam Chowder
+1998,5,43,36,1656.0,Ipoh Coffee
+1998,5,46,33,396.0,Spegesild
+1998,5,50,22,357.5,Valkoinen suklaa
+1998,5,52,2,14.0,Filo Mix
+1998,5,53,25,819.9999999999999,Perth Pasties
+1998,5,54,20,149.0,Tourtière
+1998,5,55,6,144.0,Pâté chinois
+1998,5,60,2,68.0,Camembert Pierrot
+1998,5,64,132,4389.0,Wimmers gute Semmelknödel
+1998,5,66,1,17.0,Louisiana Hot Spiced Okra
+1998,5,68,55,687.5,Scottish Longbreads
+1998,5,73,2,30.0,Röd Kaviar
+1998,5,75,4,31.0,Rhönbräu Klosterbier
+1998,5,76,2,36.0,Lakkalikööri
+1998,5,77,30,390.0,Original Frankfurter grüne Soße

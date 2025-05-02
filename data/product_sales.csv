@@ -1,0 +1,1163 @@
+product_id,order_month,order_year,total_price,product_name,unit_price
+1,1,1997,489.6,Chai,18.0
+1,1,1998,1206.0,Chai,18.0
+1,2,1998,1548.0,Chai,18.0
+1,3,1997,216.0,Chai,18.0
+1,3,1998,1188.0,Chai,18.0
+1,4,1997,576.0,Chai,18.0
+1,4,1998,1741.5,Chai,18.0
+1,5,1997,122.39999999999999,Chai,18.0
+1,5,1998,612.0,Chai,18.0
+1,6,1997,180.0,Chai,18.0
+1,7,1997,522.0,Chai,18.0
+1,8,1996,777.5999999999999,Chai,18.0
+1,8,1997,652.5,Chai,18.0
+1,9,1996,288.0,Chai,18.0
+1,10,1997,1084.5,Chai,18.0
+1,11,1996,356.4,Chai,18.0
+1,11,1997,1044.0,Chai,18.0
+1,12,1996,183.6,Chai,18.0
+2,1,1997,912.0,Chang,19.0
+2,1,1998,1127.65,Chang,19.0
+2,2,1997,733.4,Chang,19.0
+2,2,1998,1059.25,Chang,19.0
+2,3,1997,790.4,Chang,19.0
+2,3,1998,161.5,Chang,19.0
+2,4,1997,228.0,Chang,19.0
+2,4,1998,2949.75,Chang,19.0
+2,5,1998,1001.3,Chang,19.0
+2,7,1996,1444.0,Chang,19.0
+2,7,1997,190.0,Chang,19.0
+2,8,1997,1871.5,Chang,19.0
+2,9,1996,608.0,Chang,19.0
+2,10,1996,680.96,Chang,19.0
+2,10,1997,579.5,Chang,19.0
+2,11,1997,228.0,Chang,19.0
+2,12,1996,285.0,Chang,19.0
+2,12,1997,1505.75,Chang,19.0
+3,1,1997,400.0,Aniseed Syrup,10.0
+3,1,1998,790.0,Aniseed Syrup,10.0
+3,3,1997,144.0,Aniseed Syrup,10.0
+3,4,1998,250.0,Aniseed Syrup,10.0
+3,5,1997,600.0,Aniseed Syrup,10.0
+3,5,1998,40.0,Aniseed Syrup,10.0
+3,7,1997,140.0,Aniseed Syrup,10.0
+3,8,1996,240.0,Aniseed Syrup,10.0
+3,10,1997,60.0,Aniseed Syrup,10.0
+3,11,1997,200.0,Aniseed Syrup,10.0
+3,12,1997,180.0,Aniseed Syrup,10.0
+4,1,1998,462.0,Chef Anton's Cajun Seasoning,22.0
+4,2,1998,495.0,Chef Anton's Cajun Seasoning,22.0
+4,3,1997,225.28000000000003,Chef Anton's Cajun Seasoning,22.0
+4,3,1998,110.0,Chef Anton's Cajun Seasoning,22.0
+4,4,1997,935.0,Chef Anton's Cajun Seasoning,22.0
+4,4,1998,412.5,Chef Anton's Cajun Seasoning,22.0
+4,5,1997,2035.0,Chef Anton's Cajun Seasoning,22.0
+4,5,1998,22.0,Chef Anton's Cajun Seasoning,22.0
+4,7,1997,352.0,Chef Anton's Cajun Seasoning,22.0
+4,8,1997,748.0,Chef Anton's Cajun Seasoning,22.0
+4,9,1996,352.0,Chef Anton's Cajun Seasoning,22.0
+4,9,1997,237.6,Chef Anton's Cajun Seasoning,22.0
+4,10,1996,883.52,Chef Anton's Cajun Seasoning,22.0
+4,10,1997,132.0,Chef Anton's Cajun Seasoning,22.0
+4,11,1996,616.0,Chef Anton's Cajun Seasoning,22.0
+4,11,1997,550.0,Chef Anton's Cajun Seasoning,22.0
+5,1,1998,640.5,Chef Anton's Gumbo Mix,21.35
+5,3,1998,427.0,Chef Anton's Gumbo Mix,21.35
+5,4,1998,1974.875,Chef Anton's Gumbo Mix,21.35
+5,7,1996,1047.2,Chef Anton's Gumbo Mix,21.35
+5,8,1996,340.0,Chef Anton's Gumbo Mix,21.35
+5,8,1997,288.225,Chef Anton's Gumbo Mix,21.35
+5,10,1997,85.4,Chef Anton's Gumbo Mix,21.35
+5,12,1996,544.0,Chef Anton's Gumbo Mix,21.35
+6,1,1998,150.0,Grandma's Boysenberry Spread,25.0
+6,2,1998,1187.5,Grandma's Boysenberry Spread,25.0
+6,3,1998,2180.0,Grandma's Boysenberry Spread,25.0
+6,5,1998,399.5,Grandma's Boysenberry Spread,25.0
+6,8,1997,1750.0,Grandma's Boysenberry Spread,25.0
+6,9,1996,600.0,Grandma's Boysenberry Spread,25.0
+6,10,1996,120.0,Grandma's Boysenberry Spread,25.0
+6,11,1997,750.0,Grandma's Boysenberry Spread,25.0
+7,1,1998,690.0,Uncle Bob's Organic Dried Pears,30.0
+7,2,1997,364.79999999999995,Uncle Bob's Organic Dried Pears,30.0
+7,2,1998,930.0,Uncle Bob's Organic Dried Pears,30.0
+7,3,1997,720.0,Uncle Bob's Organic Dried Pears,30.0
+7,3,1998,6510.0,Uncle Bob's Organic Dried Pears,30.0
+7,4,1997,1275.0,Uncle Bob's Organic Dried Pears,30.0
+7,4,1998,3720.0,Uncle Bob's Organic Dried Pears,30.0
+7,5,1997,300.0,Uncle Bob's Organic Dried Pears,30.0
+7,5,1998,456.0,Uncle Bob's Organic Dried Pears,30.0
+7,7,1996,360.0,Uncle Bob's Organic Dried Pears,30.0
+7,7,1997,1650.0,Uncle Bob's Organic Dried Pears,30.0
+7,8,1997,1050.0,Uncle Bob's Organic Dried Pears,30.0
+7,10,1997,2700.0,Uncle Bob's Organic Dried Pears,30.0
+7,12,1996,192.0,Uncle Bob's Organic Dried Pears,30.0
+7,12,1997,1126.5,Uncle Bob's Organic Dried Pears,30.0
+8,1,1998,800.0,Northwoods Cranberry Sauce,40.0
+8,2,1998,1200.0,Northwoods Cranberry Sauce,40.0
+8,3,1998,1320.0,Northwoods Cranberry Sauce,40.0
+8,4,1997,1300.0,Northwoods Cranberry Sauce,40.0
+8,4,1998,1200.0,Northwoods Cranberry Sauce,40.0
+8,5,1998,72.0,Northwoods Cranberry Sauce,40.0
+8,10,1997,2000.0,Northwoods Cranberry Sauce,40.0
+8,11,1996,3920.0,Northwoods Cranberry Sauce,40.0
+8,12,1997,960.0,Northwoods Cranberry Sauce,40.0
+9,1,1997,1396.8,Mishi Kobe Niku,97.0
+9,1,1998,291.0,Mishi Kobe Niku,97.0
+9,4,1997,1319.2,Mishi Kobe Niku,97.0
+9,9,1997,3637.5,Mishi Kobe Niku,97.0
+9,10,1997,582.0,Mishi Kobe Niku,97.0
+10,1,1998,3596.0,Ikura,31.0
+10,2,1997,744.0,Ikura,31.0
+10,2,1998,2480.0,Ikura,31.0
+10,3,1997,471.2,Ikura,31.0
+10,3,1998,2263.0,Ikura,31.0
+10,4,1997,471.2,Ikura,31.0
+10,4,1998,632.4,Ikura,31.0
+10,5,1997,62.0,Ikura,31.0
+10,5,1998,31.0,Ikura,31.0
+10,6,1997,155.0,Ikura,31.0
+10,7,1997,2480.0,Ikura,31.0
+10,8,1996,937.44,Ikura,31.0
+10,8,1997,418.5,Ikura,31.0
+10,9,1997,1314.4,Ikura,31.0
+10,10,1997,2207.2,Ikura,31.0
+10,11,1996,595.2,Ikura,31.0
+10,12,1996,396.8,Ikura,31.0
+10,12,1997,1612.0,Ikura,31.0
+11,1,1997,504.0,Queso Cabrales,21.0
+11,1,1998,1218.0,Queso Cabrales,21.0
+11,2,1997,685.44,Queso Cabrales,21.0
+11,2,1998,1680.0,Queso Cabrales,21.0
+11,3,1997,441.0,Queso Cabrales,21.0
+11,3,1998,1065.75,Queso Cabrales,21.0
+11,4,1998,210.0,Queso Cabrales,21.0
+11,5,1997,1832.25,Queso Cabrales,21.0
+11,5,1998,210.0,Queso Cabrales,21.0
+11,6,1997,924.0,Queso Cabrales,21.0
+11,7,1996,168.0,Queso Cabrales,21.0
+11,7,1997,294.0,Queso Cabrales,21.0
+11,8,1997,210.0,Queso Cabrales,21.0
+11,9,1996,201.60000000000002,Queso Cabrales,21.0
+11,10,1996,672.0,Queso Cabrales,21.0
+11,10,1997,315.0,Queso Cabrales,21.0
+11,11,1996,564.48,Queso Cabrales,21.0
+11,11,1997,105.0,Queso Cabrales,21.0
+11,12,1997,1601.25,Queso Cabrales,21.0
+12,2,1997,456.0,Queso Manchego La Pastora,38.0
+12,3,1998,1900.0,Queso Manchego La Pastora,38.0
+12,4,1998,1603.6,Queso Manchego La Pastora,38.0
+12,5,1997,1396.5,Queso Manchego La Pastora,38.0
+12,5,1998,72.2,Queso Manchego La Pastora,38.0
+12,7,1996,346.55999999999995,Queso Manchego La Pastora,38.0
+12,8,1997,1162.8,Queso Manchego La Pastora,38.0
+12,9,1997,3800.0,Queso Manchego La Pastora,38.0
+12,10,1997,1520.0,Queso Manchego La Pastora,38.0
+13,1,1997,8.64,Konbu,6.0
+13,1,1998,483.9,Konbu,6.0
+13,2,1998,429.6,Konbu,6.0
+13,3,1997,4.8,Konbu,6.0
+13,3,1998,1584.6,Konbu,6.0
+13,4,1997,60.0,Konbu,6.0
+13,4,1998,1146.0,Konbu,6.0
+13,5,1997,108.0,Konbu,6.0
+13,5,1998,81.0,Konbu,6.0
+13,7,1997,403.2,Konbu,6.0
+13,8,1996,134.4,Konbu,6.0
+13,8,1997,66.3,Konbu,6.0
+13,10,1996,57.599999999999994,Konbu,6.0
+13,11,1997,60.0,Konbu,6.0
+13,12,1996,230.39999999999998,Konbu,6.0
+13,12,1997,102.0,Konbu,6.0
+14,1,1997,1209.0,Tofu,23.25
+14,3,1997,223.20000000000002,Tofu,23.25
+14,4,1997,1627.5,Tofu,23.25
+14,5,1998,371.3025,Tofu,23.25
+14,6,1997,1106.7,Tofu,23.25
+14,7,1996,167.4,Tofu,23.25
+14,8,1997,558.0,Tofu,23.25
+14,9,1997,760.275,Tofu,23.25
+14,10,1996,353.4,Tofu,23.25
+14,11,1997,470.8125,Tofu,23.25
+14,12,1996,864.9000000000001,Tofu,23.25
+14,12,1997,279.0,Tofu,23.25
+15,4,1997,176.7,Genen Shouyu,13.0
+15,6,1997,155.0,Genen Shouyu,13.0
+15,7,1997,368.125,Genen Shouyu,13.0
+15,8,1996,248.0,Genen Shouyu,13.0
+15,9,1997,775.0,Genen Shouyu,13.0
+15,10,1996,62.0,Genen Shouyu,13.0
+16,1,1997,248.115,Pavlova,17.45
+16,1,1998,872.5,Pavlova,17.45
+16,2,1997,1023.735,Pavlova,17.45
+16,2,1998,958.0049999999999,Pavlova,17.45
+16,3,1997,663.725,Pavlova,17.45
+16,3,1998,2830.39,Pavlova,17.45
+16,4,1997,872.5,Pavlova,17.45
+16,5,1997,1334.925,Pavlova,17.45
+16,5,1998,763.2629999999999,Pavlova,17.45
+16,6,1997,188.45999999999998,Pavlova,17.45
+16,7,1996,1112.0,Pavlova,17.45
+16,7,1997,497.325,Pavlova,17.45
+16,8,1996,472.59999999999997,Pavlova,17.45
+16,9,1996,556.0,Pavlova,17.45
+16,9,1997,1352.375,Pavlova,17.45
+16,10,1996,248.115,Pavlova,17.45
+16,10,1997,698.0,Pavlova,17.45
+16,11,1996,739.4799999999999,Pavlova,17.45
+16,11,1997,301.0125,Pavlova,17.45
+16,12,1997,1483.25,Pavlova,17.45
+17,1,1997,2355.6000000000004,Alice Mutton,39.0
+17,1,1998,1872.0,Alice Mutton,39.0
+17,2,1997,312.0,Alice Mutton,39.0
+17,2,1998,2035.8,Alice Mutton,39.0
+17,3,1998,1053.0,Alice Mutton,39.0
+17,4,1998,468.0,Alice Mutton,39.0
+17,5,1997,2718.3,Alice Mutton,39.0
+17,5,1998,2702.7000000000003,Alice Mutton,39.0
+17,6,1997,1294.8,Alice Mutton,39.0
+17,7,1996,936.0,Alice Mutton,39.0
+17,7,1997,3900.0,Alice Mutton,39.0
+17,8,1996,819.0,Alice Mutton,39.0
+17,9,1996,1248.0,Alice Mutton,39.0
+17,9,1997,936.0,Alice Mutton,39.0
+17,10,1996,2948.3999999999996,Alice Mutton,39.0
+17,10,1997,1866.15,Alice Mutton,39.0
+17,11,1996,1010.8800000000001,Alice Mutton,39.0
+17,11,1997,741.0,Alice Mutton,39.0
+17,12,1997,3480.75,Alice Mutton,39.0
+18,1,1998,3046.875,Carnarvon Tigers,62.5
+18,2,1998,1562.5,Carnarvon Tigers,62.5
+18,3,1997,1500.0,Carnarvon Tigers,62.5
+18,3,1998,1012.5,Carnarvon Tigers,62.5
+18,4,1997,1406.25,Carnarvon Tigers,62.5
+18,4,1998,2875.0,Carnarvon Tigers,62.5
+18,6,1997,956.25,Carnarvon Tigers,62.5
+18,7,1997,2000.0,Carnarvon Tigers,62.5
+18,8,1996,600.0,Carnarvon Tigers,62.5
+18,8,1997,5100.0,Carnarvon Tigers,62.5
+18,9,1996,1125.0,Carnarvon Tigers,62.5
+18,10,1996,2550.0,Carnarvon Tigers,62.5
+18,10,1997,562.5,Carnarvon Tigers,62.5
+18,11,1997,2550.0,Carnarvon Tigers,62.5
+18,12,1996,450.0,Carnarvon Tigers,62.5
+18,12,1997,1875.0,Carnarvon Tigers,62.5
+19,1,1997,295.65,Teatime Chocolate Biscuits,9.2
+19,1,1998,244.72,Teatime Chocolate Biscuits,9.2
+19,2,1997,458.44,Teatime Chocolate Biscuits,9.2
+19,2,1998,340.4,Teatime Chocolate Biscuits,9.2
+19,3,1997,189.79999999999998,Teatime Chocolate Biscuits,9.2
+19,3,1998,174.79999999999998,Teatime Chocolate Biscuits,9.2
+19,4,1998,759.0,Teatime Chocolate Biscuits,9.2
+19,5,1997,92.0,Teatime Chocolate Biscuits,9.2
+19,5,1998,455.4,Teatime Chocolate Biscuits,9.2
+19,6,1997,257.6,Teatime Chocolate Biscuits,9.2
+19,8,1996,138.70000000000002,Teatime Chocolate Biscuits,9.2
+19,8,1997,446.2,Teatime Chocolate Biscuits,9.2
+19,9,1996,109.5,Teatime Chocolate Biscuits,9.2
+19,9,1997,395.6,Teatime Chocolate Biscuits,9.2
+19,10,1996,69.35,Teatime Chocolate Biscuits,9.2
+19,10,1997,204.7,Teatime Chocolate Biscuits,9.2
+19,11,1996,584.0,Teatime Chocolate Biscuits,9.2
+19,12,1997,646.7599999999999,Teatime Chocolate Biscuits,9.2
+20,1,1998,405.0,Sir Rodney's Marmalade,81.0
+20,2,1998,1539.0,Sir Rodney's Marmalade,81.0
+20,3,1998,5467.5,Sir Rodney's Marmalade,81.0
+20,4,1997,3159.0,Sir Rodney's Marmalade,81.0
+20,4,1998,1215.0,Sir Rodney's Marmalade,81.0
+20,5,1997,1093.5,Sir Rodney's Marmalade,81.0
+20,5,1998,77.75999999999999,Sir Rodney's Marmalade,81.0
+20,7,1996,2462.4,Sir Rodney's Marmalade,81.0
+20,7,1997,1360.8000000000002,Sir Rodney's Marmalade,81.0
+20,8,1996,1684.8,Sir Rodney's Marmalade,81.0
+20,9,1997,1701.0,Sir Rodney's Marmalade,81.0
+20,12,1996,2397.6,Sir Rodney's Marmalade,81.0
+21,1,1997,712.0,Sir Rodney's Scones,10.0
+21,1,1998,400.0,Sir Rodney's Scones,10.0
+21,2,1997,512.0,Sir Rodney's Scones,10.0
+21,2,1998,580.0,Sir Rodney's Scones,10.0
+21,3,1997,238.0,Sir Rodney's Scones,10.0
+21,3,1998,1420.0,Sir Rodney's Scones,10.0
+21,4,1997,440.0,Sir Rodney's Scones,10.0
+21,4,1998,1015.0,Sir Rodney's Scones,10.0
+21,5,1997,204.0,Sir Rodney's Scones,10.0
+21,7,1996,240.0,Sir Rodney's Scones,10.0
+21,7,1997,140.0,Sir Rodney's Scones,10.0
+21,8,1997,885.0,Sir Rodney's Scones,10.0
+21,9,1997,708.0,Sir Rodney's Scones,10.0
+21,10,1996,72.0,Sir Rodney's Scones,10.0
+21,10,1997,354.0,Sir Rodney's Scones,10.0
+21,11,1996,36.0,Sir Rodney's Scones,10.0
+21,11,1997,680.0,Sir Rodney's Scones,10.0
+21,12,1996,68.0,Sir Rodney's Scones,10.0
+21,12,1997,400.0,Sir Rodney's Scones,10.0
+22,1,1998,1827.0,Gustaf's Knäckebröd,21.0
+22,2,1997,201.60000000000002,Gustaf's Knäckebröd,21.0
+22,3,1998,441.0,Gustaf's Knäckebröd,21.0
+22,4,1998,525.0,Gustaf's Knäckebröd,21.0
+22,5,1997,504.0,Gustaf's Knäckebröd,21.0
+22,7,1996,95.76,Gustaf's Knäckebröd,21.0
+22,7,1997,1008.0,Gustaf's Knäckebröd,21.0
+22,8,1997,1995.0,Gustaf's Knäckebröd,21.0
+22,9,1997,315.0,Gustaf's Knäckebröd,21.0
+22,12,1997,210.0,Gustaf's Knäckebröd,21.0
+23,1,1997,432.0,Tunnbröd,9.0
+23,1,1998,729.0,Tunnbröd,9.0
+23,2,1998,666.0,Tunnbröd,9.0
+23,3,1997,259.20000000000005,Tunnbröd,9.0
+23,3,1998,54.0,Tunnbröd,9.0
+23,4,1997,72.0,Tunnbröd,9.0
+23,4,1998,90.0,Tunnbröd,9.0
+23,5,1997,706.5,Tunnbröd,9.0
+23,5,1998,18.0,Tunnbröd,9.0
+23,8,1997,90.0,Tunnbröd,9.0
+23,9,1997,333.0,Tunnbröd,9.0
+23,10,1996,288.0,Tunnbröd,9.0
+23,11,1996,180.0,Tunnbröd,9.0
+23,11,1997,396.0,Tunnbröd,9.0
+23,12,1996,288.0,Tunnbröd,9.0
+24,1,1998,135.0,Guaraná Fantástica,4.5
+24,2,1997,64.8,Guaraná Fantástica,4.5
+24,2,1998,650.25,Guaraná Fantástica,4.5
+24,3,1997,464.4,Guaraná Fantástica,4.5
+24,3,1998,888.75,Guaraná Fantástica,4.5
+24,4,1997,159.75,Guaraná Fantástica,4.5
+24,4,1998,553.5,Guaraná Fantástica,4.5
+24,5,1997,141.75,Guaraná Fantástica,4.5
+24,5,1998,90.0,Guaraná Fantástica,4.5
+24,6,1997,166.05,Guaraná Fantástica,4.5
+24,7,1996,146.7,Guaraná Fantástica,4.5
+24,7,1997,126.0,Guaraná Fantástica,4.5
+24,8,1996,141.84,Guaraná Fantástica,4.5
+24,8,1997,93.375,Guaraná Fantástica,4.5
+24,10,1997,247.5,Guaraná Fantástica,4.5
+24,11,1996,160.2,Guaraná Fantástica,4.5
+24,12,1996,108.0,Guaraná Fantástica,4.5
+24,12,1997,166.5,Guaraná Fantástica,4.5
+25,1,1998,620.2,NuNuCa Nuß-Nougat-Creme,14.0
+25,2,1998,70.0,NuNuCa Nuß-Nougat-Creme,14.0
+25,3,1997,134.39999999999998,NuNuCa Nuß-Nougat-Creme,14.0
+25,3,1998,336.0,NuNuCa Nuß-Nougat-Creme,14.0
+25,4,1997,865.2,NuNuCa Nuß-Nougat-Creme,14.0
+25,4,1998,210.0,NuNuCa Nuß-Nougat-Creme,14.0
+25,10,1996,44.8,NuNuCa Nuß-Nougat-Creme,14.0
+25,11,1996,672.0,NuNuCa Nuß-Nougat-Creme,14.0
+25,12,1996,58.8,NuNuCa Nuß-Nougat-Creme,14.0
+25,12,1997,693.0,NuNuCa Nuß-Nougat-Creme,14.0
+26,1,1997,1755.45,Gumbär Gummibärchen,31.23
+26,1,1998,2734.1865,Gumbär Gummibärchen,31.23
+26,2,1997,1269.9,Gumbär Gummibärchen,31.23
+26,2,1998,624.6,Gumbär Gummibärchen,31.23
+26,3,1997,747.0,Gumbär Gummibärchen,31.23
+26,3,1998,156.15,Gumbär Gummibärchen,31.23
+26,4,1998,2529.63,Gumbär Gummibärchen,31.23
+26,5,1997,1249.2,Gumbär Gummibärchen,31.23
+26,7,1997,335.72249999999997,Gumbär Gummibärchen,31.23
+26,8,1997,929.0925,Gumbär Gummibärchen,31.23
+26,9,1997,1264.815,Gumbär Gummibärchen,31.23
+26,10,1996,1655.85,Gumbär Gummibärchen,31.23
+26,10,1997,1405.35,Gumbär Gummibärchen,31.23
+26,11,1996,398.4,Gumbär Gummibärchen,31.23
+26,11,1997,961.884,Gumbär Gummibärchen,31.23
+26,12,1996,1307.25,Gumbär Gummibärchen,31.23
+26,12,1997,524.6640000000001,Gumbär Gummibärchen,31.23
+27,1,1998,439.0,Schoggi Schokolade,43.9
+27,2,1997,1755.0,Schoggi Schokolade,43.9
+27,3,1998,2414.5,Schoggi Schokolade,43.9
+27,4,1997,5268.0,Schoggi Schokolade,43.9
+27,7,1996,877.5,Schoggi Schokolade,43.9
+27,7,1997,2195.0,Schoggi Schokolade,43.9
+27,8,1996,394.875,Schoggi Schokolade,43.9
+27,12,1997,1756.0,Schoggi Schokolade,43.9
+28,1,1997,1375.92,Rössle Sauerkraut,45.6
+28,2,1997,2074.8,Rössle Sauerkraut,45.6
+28,2,1998,136.8,Rössle Sauerkraut,45.6
+28,3,1997,655.1999999999999,Rössle Sauerkraut,45.6
+28,3,1998,2599.2,Rössle Sauerkraut,45.6
+28,4,1997,2991.36,Rössle Sauerkraut,45.6
+28,4,1998,3944.3999999999996,Rössle Sauerkraut,45.6
+28,5,1997,319.2,Rössle Sauerkraut,45.6
+28,5,1998,310.08,Rössle Sauerkraut,45.6
+28,8,1996,728.0,Rössle Sauerkraut,45.6
+28,8,1997,1881.0,Rössle Sauerkraut,45.6
+28,9,1996,1164.8,Rössle Sauerkraut,45.6
+28,10,1996,509.59999999999997,Rössle Sauerkraut,45.6
+28,10,1997,2462.4,Rössle Sauerkraut,45.6
+28,11,1996,1517.88,Rössle Sauerkraut,45.6
+28,11,1997,1094.4,Rössle Sauerkraut,45.6
+28,12,1996,837.1999999999999,Rössle Sauerkraut,45.6
+28,12,1997,1094.4,Rössle Sauerkraut,45.6
+29,1,1997,2079.0,Thüringer Rostbratwurst,123.79
+29,1,1998,1869.229,Thüringer Rostbratwurst,123.79
+29,2,1997,2019.6,Thüringer Rostbratwurst,123.79
+29,2,1998,18444.71,Thüringer Rostbratwurst,123.79
+29,3,1997,1603.8,Thüringer Rostbratwurst,123.79
+29,3,1998,1733.0600000000002,Thüringer Rostbratwurst,123.79
+29,4,1997,4456.4400000000005,Thüringer Rostbratwurst,123.79
+29,4,1998,11636.26,Thüringer Rostbratwurst,123.79
+29,6,1997,1237.9,Thüringer Rostbratwurst,123.79
+29,7,1996,990.0,Thüringer Rostbratwurst,123.79
+29,8,1996,1485.0,Thüringer Rostbratwurst,123.79
+29,8,1997,3218.54,Thüringer Rostbratwurst,123.79
+29,9,1996,2227.5,Thüringer Rostbratwurst,123.79
+29,9,1997,5694.34,Thüringer Rostbratwurst,123.79
+29,10,1997,6362.8060000000005,Thüringer Rostbratwurst,123.79
+29,11,1996,3861.0,Thüringer Rostbratwurst,123.79
+29,12,1996,3366.0,Thüringer Rostbratwurst,123.79
+29,12,1997,8083.487000000001,Thüringer Rostbratwurst,123.79
+30,1,1997,372.59999999999997,Nord-Ost Matjeshering,25.89
+30,1,1998,491.9099999999999,Nord-Ost Matjeshering,25.89
+30,2,1997,434.70000000000005,Nord-Ost Matjeshering,25.89
+30,2,1998,2983.8224999999998,Nord-Ost Matjeshering,25.89
+30,3,1997,165.6,Nord-Ost Matjeshering,25.89
+30,3,1998,802.59,Nord-Ost Matjeshering,25.89
+30,4,1997,414.24,Nord-Ost Matjeshering,25.89
+30,4,1998,388.35,Nord-Ost Matjeshering,25.89
+30,5,1997,906.15,Nord-Ost Matjeshering,25.89
+30,5,1998,77.67,Nord-Ost Matjeshering,25.89
+30,6,1997,517.8,Nord-Ost Matjeshering,25.89
+30,7,1996,931.5,Nord-Ost Matjeshering,25.89
+30,8,1996,124.19999999999999,Nord-Ost Matjeshering,25.89
+30,8,1997,776.7,Nord-Ost Matjeshering,25.89
+30,9,1996,207.0,Nord-Ost Matjeshering,25.89
+30,9,1997,38.835,Nord-Ost Matjeshering,25.89
+30,10,1996,1047.42,Nord-Ost Matjeshering,25.89
+30,10,1997,58.2525,Nord-Ost Matjeshering,25.89
+30,11,1997,1553.4,Nord-Ost Matjeshering,25.89
+30,12,1996,335.34,Nord-Ost Matjeshering,25.89
+30,12,1997,796.1175000000001,Nord-Ost Matjeshering,25.89
+31,1,1997,140.0,Gorgonzola Telino,12.5
+31,1,1998,893.75,Gorgonzola Telino,12.5
+31,2,1997,27.0,Gorgonzola Telino,12.5
+31,2,1998,437.5,Gorgonzola Telino,12.5
+31,3,1997,297.5,Gorgonzola Telino,12.5
+31,3,1998,1696.875,Gorgonzola Telino,12.5
+31,4,1997,190.0,Gorgonzola Telino,12.5
+31,4,1998,187.5,Gorgonzola Telino,12.5
+31,5,1997,1584.375,Gorgonzola Telino,12.5
+31,5,1998,250.0,Gorgonzola Telino,12.5
+31,6,1997,1865.0,Gorgonzola Telino,12.5
+31,7,1996,200.0,Gorgonzola Telino,12.5
+31,8,1996,542.5,Gorgonzola Telino,12.5
+31,9,1997,515.0,Gorgonzola Telino,12.5
+31,10,1996,688.0,Gorgonzola Telino,12.5
+31,10,1997,875.0,Gorgonzola Telino,12.5
+31,11,1996,1165.0,Gorgonzola Telino,12.5
+31,11,1997,135.625,Gorgonzola Telino,12.5
+31,12,1996,1559.0,Gorgonzola Telino,12.5
+31,12,1997,1671.25,Gorgonzola Telino,12.5
+32,1,1998,640.0,Mascarpone Fabioli,32.0
+32,2,1998,192.0,Mascarpone Fabioli,32.0
+32,3,1998,1008.0,Mascarpone Fabioli,32.0
+32,4,1997,1280.0,Mascarpone Fabioli,32.0
+32,4,1998,2696.0,Mascarpone Fabioli,32.0
+32,5,1997,652.8,Mascarpone Fabioli,32.0
+32,5,1998,32.0,Mascarpone Fabioli,32.0
+32,6,1997,288.0,Mascarpone Fabioli,32.0
+32,7,1996,122.88000000000002,Mascarpone Fabioli,32.0
+32,9,1996,921.6,Mascarpone Fabioli,32.0
+32,10,1996,122.88000000000002,Mascarpone Fabioli,32.0
+32,10,1997,128.0,Mascarpone Fabioli,32.0
+32,11,1997,320.0,Mascarpone Fabioli,32.0
+33,1,1997,238.0,Geitost,2.5
+33,1,1998,136.0,Geitost,2.5
+33,2,1997,32.0,Geitost,2.5
+33,2,1998,150.0,Geitost,2.5
+33,3,1997,24.0,Geitost,2.5
+33,3,1998,53.125,Geitost,2.5
+33,4,1997,34.0,Geitost,2.5
+33,4,1998,137.5,Geitost,2.5
+33,5,1997,128.5,Geitost,2.5
+33,6,1997,80.0,Geitost,2.5
+33,7,1996,161.5,Geitost,2.5
+33,7,1997,35.0,Geitost,2.5
+33,8,1996,88.0,Geitost,2.5
+33,8,1997,47.5,Geitost,2.5
+33,9,1997,167.0,Geitost,2.5
+33,10,1996,16.0,Geitost,2.5
+33,12,1996,120.0,Geitost,2.5
+34,2,1997,179.20000000000002,Sasquatch Ale,14.0
+34,2,1998,140.0,Sasquatch Ale,14.0
+34,3,1997,372.4,Sasquatch Ale,14.0
+34,3,1998,280.0,Sasquatch Ale,14.0
+34,4,1998,2331.0,Sasquatch Ale,14.0
+34,5,1997,105.0,Sasquatch Ale,14.0
+34,5,1998,490.0,Sasquatch Ale,14.0
+34,6,1997,560.0,Sasquatch Ale,14.0
+34,8,1996,224.0,Sasquatch Ale,14.0
+34,9,1996,156.79999999999998,Sasquatch Ale,14.0
+34,10,1997,330.4,Sasquatch Ale,14.0
+34,11,1996,509.59999999999997,Sasquatch Ale,14.0
+34,11,1997,420.0,Sasquatch Ale,14.0
+34,12,1996,112.0,Sasquatch Ale,14.0
+34,12,1997,140.0,Sasquatch Ale,14.0
+35,1,1997,1195.2,Steeleye Stout,18.0
+35,1,1998,1017.0,Steeleye Stout,18.0
+35,2,1997,115.2,Steeleye Stout,18.0
+35,2,1998,666.0,Steeleye Stout,18.0
+35,3,1998,900.0,Steeleye Stout,18.0
+35,4,1997,54.0,Steeleye Stout,18.0
+35,4,1998,2049.3,Steeleye Stout,18.0
+35,5,1997,954.0,Steeleye Stout,18.0
+35,6,1997,360.0,Steeleye Stout,18.0
+35,7,1996,288.0,Steeleye Stout,18.0
+35,7,1997,837.0,Steeleye Stout,18.0
+35,8,1996,1497.6,Steeleye Stout,18.0
+35,8,1997,486.0,Steeleye Stout,18.0
+35,10,1996,1000.8,Steeleye Stout,18.0
+35,10,1997,499.5,Steeleye Stout,18.0
+35,11,1997,504.0,Steeleye Stout,18.0
+35,12,1996,950.4,Steeleye Stout,18.0
+35,12,1997,270.0,Steeleye Stout,18.0
+36,1,1997,68.4,Inlagd Sill,19.0
+36,1,1998,712.5,Inlagd Sill,19.0
+36,2,1998,380.0,Inlagd Sill,19.0
+36,3,1998,1619.75,Inlagd Sill,19.0
+36,4,1998,1225.5,Inlagd Sill,19.0
+36,5,1997,2223.0,Inlagd Sill,19.0
+36,6,1997,475.0,Inlagd Sill,19.0
+36,7,1996,380.0,Inlagd Sill,19.0
+36,7,1997,1344.25,Inlagd Sill,19.0
+36,8,1996,456.0,Inlagd Sill,19.0
+36,8,1997,285.0,Inlagd Sill,19.0
+36,9,1996,638.4,Inlagd Sill,19.0
+36,9,1997,655.5,Inlagd Sill,19.0
+36,10,1996,790.4000000000001,Inlagd Sill,19.0
+36,10,1997,855.0,Inlagd Sill,19.0
+36,11,1996,288.8,Inlagd Sill,19.0
+36,11,1997,418.0,Inlagd Sill,19.0
+36,12,1996,72.96,Inlagd Sill,19.0
+36,12,1997,570.0,Inlagd Sill,19.0
+37,1,1997,208.0,Gravad lax,26.0
+37,1,1998,1248.0,Gravad lax,26.0
+37,3,1998,208.0,Gravad lax,26.0
+37,5,1997,421.2,Gravad lax,26.0
+37,7,1996,20.8,Gravad lax,26.0
+37,10,1996,582.4,Gravad lax,26.0
+38,1,1997,18803.36,Côte de Blaye,263.5
+38,1,1998,18049.75,Côte de Blaye,263.5
+38,2,1998,25559.5,Côte de Blaye,263.5
+38,3,1997,6324.0,Côte de Blaye,263.5
+38,3,1998,17127.5,Côte de Blaye,263.5
+38,4,1997,3952.5,Côte de Blaye,263.5
+38,4,1998,6587.5,Côte de Blaye,263.5
+38,5,1997,8853.6,Côte de Blaye,263.5
+38,7,1997,3754.875,Côte de Blaye,263.5
+38,9,1997,3557.25,Côte de Blaye,263.5
+38,10,1996,4005.2,Côte de Blaye,263.5
+38,11,1996,14545.2,Côte de Blaye,263.5
+38,12,1996,6324.0,Côte de Blaye,263.5
+38,12,1997,3952.5,Côte de Blaye,263.5
+39,1,1998,1026.0,Chartreuse verte,18.0
+39,2,1997,374.4,Chartreuse verte,18.0
+39,2,1998,2300.4,Chartreuse verte,18.0
+39,3,1997,216.0,Chartreuse verte,18.0
+39,3,1998,540.0,Chartreuse verte,18.0
+39,4,1997,180.0,Chartreuse verte,18.0
+39,5,1998,394.2,Chartreuse verte,18.0
+39,6,1997,180.0,Chartreuse verte,18.0
+39,7,1996,691.2,Chartreuse verte,18.0
+39,7,1997,90.0,Chartreuse verte,18.0
+39,8,1997,643.5,Chartreuse verte,18.0
+39,9,1996,1252.8,Chartreuse verte,18.0
+39,9,1997,367.2,Chartreuse verte,18.0
+39,10,1996,57.6,Chartreuse verte,18.0
+39,11,1996,1311.8400000000001,Chartreuse verte,18.0
+39,12,1996,244.79999999999998,Chartreuse verte,18.0
+39,12,1997,2424.6,Chartreuse verte,18.0
+40,1,1997,577.71,Boston Crab Meat,18.4
+40,1,1998,1950.3999999999999,Boston Crab Meat,18.4
+40,2,1997,294.0,Boston Crab Meat,18.4
+40,2,1998,1895.1999999999998,Boston Crab Meat,18.4
+40,3,1997,896.7,Boston Crab Meat,18.4
+40,3,1998,552.0,Boston Crab Meat,18.4
+40,4,1997,460.0,Boston Crab Meat,18.4
+40,4,1998,920.0,Boston Crab Meat,18.4
+40,5,1997,561.2,Boston Crab Meat,18.4
+40,6,1997,956.7999999999998,Boston Crab Meat,18.4
+40,7,1996,735.0,Boston Crab Meat,18.4
+40,7,1997,772.8,Boston Crab Meat,18.4
+40,8,1996,1308.3,Boston Crab Meat,18.4
+40,8,1997,1104.0,Boston Crab Meat,18.4
+40,9,1996,676.2,Boston Crab Meat,18.4
+40,9,1997,2535.5199999999995,Boston Crab Meat,18.4
+40,11,1996,58.8,Boston Crab Meat,18.4
+40,11,1997,1637.6,Boston Crab Meat,18.4
+40,12,1997,18.4,Boston Crab Meat,18.4
+41,1,1997,154.0,Jack's New England Clam Chowder,9.65
+41,1,1998,501.8,Jack's New England Clam Chowder,9.65
+41,2,1997,231.0,Jack's New England Clam Chowder,9.65
+41,2,1998,472.85,Jack's New England Clam Chowder,9.65
+41,3,1998,383.105,Jack's New England Clam Chowder,9.65
+41,4,1997,945.3000000000001,Jack's New England Clam Chowder,9.65
+41,4,1998,940.3925,Jack's New England Clam Chowder,9.65
+41,5,1997,187.21,Jack's New England Clam Chowder,9.65
+41,5,1998,617.6,Jack's New England Clam Chowder,9.65
+41,6,1997,192.5175,Jack's New England Clam Chowder,9.65
+41,7,1996,333.025,Jack's New England Clam Chowder,9.65
+41,9,1996,77.0,Jack's New England Clam Chowder,9.65
+41,9,1997,1582.6,Jack's New England Clam Chowder,9.65
+41,10,1996,241.78,Jack's New England Clam Chowder,9.65
+41,10,1997,521.1,Jack's New England Clam Chowder,9.65
+41,11,1996,100.10000000000001,Jack's New England Clam Chowder,9.65
+41,11,1997,453.55,Jack's New England Clam Chowder,9.65
+41,12,1996,55.440000000000005,Jack's New England Clam Chowder,9.65
+41,12,1997,689.9749999999999,Jack's New England Clam Chowder,9.65
+42,1,1997,425.59999999999997,Singaporean Hokkien Fried Mee,14.0
+42,1,1998,809.2,Singaporean Hokkien Fried Mee,14.0
+42,2,1998,350.0,Singaporean Hokkien Fried Mee,14.0
+42,3,1997,560.0,Singaporean Hokkien Fried Mee,14.0
+42,3,1998,112.0,Singaporean Hokkien Fried Mee,14.0
+42,4,1997,912.8,Singaporean Hokkien Fried Mee,14.0
+42,4,1998,1517.6,Singaporean Hokkien Fried Mee,14.0
+42,6,1997,333.2,Singaporean Hokkien Fried Mee,14.0
+42,7,1996,98.0,Singaporean Hokkien Fried Mee,14.0
+42,7,1997,1120.0,Singaporean Hokkien Fried Mee,14.0
+42,8,1997,70.0,Singaporean Hokkien Fried Mee,14.0
+42,9,1996,89.6,Singaporean Hokkien Fried Mee,14.0
+42,9,1997,1183.0,Singaporean Hokkien Fried Mee,14.0
+42,10,1996,89.60000000000001,Singaporean Hokkien Fried Mee,14.0
+42,11,1996,100.8,Singaporean Hokkien Fried Mee,14.0
+42,11,1997,392.0,Singaporean Hokkien Fried Mee,14.0
+42,12,1997,411.6,Singaporean Hokkien Fried Mee,14.0
+43,1,1998,1748.0,Ipoh Coffee,46.0
+43,2,1997,736.0,Ipoh Coffee,46.0
+43,3,1997,662.4,Ipoh Coffee,46.0
+43,3,1998,1886.0,Ipoh Coffee,46.0
+43,4,1997,586.5,Ipoh Coffee,46.0
+43,4,1998,2484.0,Ipoh Coffee,46.0
+43,5,1997,3910.0,Ipoh Coffee,46.0
+43,5,1998,1407.6,Ipoh Coffee,46.0
+43,8,1996,1472.0,Ipoh Coffee,46.0
+43,8,1997,920.0,Ipoh Coffee,46.0
+43,9,1996,2060.7999999999997,Ipoh Coffee,46.0
+43,9,1997,276.0,Ipoh Coffee,46.0
+43,10,1996,1398.3999999999999,Ipoh Coffee,46.0
+43,10,1997,2944.0,Ipoh Coffee,46.0
+43,12,1997,1035.0,Ipoh Coffee,46.0
+44,1,1997,496.0,Gula Malacca,19.45
+44,1,1998,248.96,Gula Malacca,19.45
+44,2,1997,1472.5,Gula Malacca,19.45
+44,3,1997,223.975,Gula Malacca,19.45
+44,3,1998,361.77,Gula Malacca,19.45
+44,4,1997,175.04999999999998,Gula Malacca,19.45
+44,4,1998,525.15,Gula Malacca,19.45
+44,5,1997,778.0,Gula Malacca,19.45
+44,6,1997,602.95,Gula Malacca,19.45
+44,8,1996,908.3,Gula Malacca,19.45
+44,8,1997,194.5,Gula Malacca,19.45
+44,9,1997,898.59,Gula Malacca,19.45
+44,10,1997,1390.675,Gula Malacca,19.45
+44,11,1996,1133.825,Gula Malacca,19.45
+44,11,1997,311.2,Gula Malacca,19.45
+44,12,1997,194.5,Gula Malacca,19.45
+45,1,1998,273.6,Rogede sild,9.5
+45,2,1998,142.5,Rogede sild,9.5
+45,3,1997,205.20000000000002,Rogede sild,9.5
+45,3,1998,285.0,Rogede sild,9.5
+45,4,1997,199.5,Rogede sild,9.5
+45,4,1998,190.0,Rogede sild,9.5
+45,5,1997,807.5,Rogede sild,9.5
+45,8,1997,190.0,Rogede sild,9.5
+45,10,1997,1045.0,Rogede sild,9.5
+45,11,1997,665.0,Rogede sild,9.5
+45,12,1996,91.2,Rogede sild,9.5
+45,12,1997,243.67499999999998,Rogede sild,9.5
+46,1,1997,206.4,Spegesild,12.0
+46,1,1998,420.0,Spegesild,12.0
+46,2,1997,307.2,Spegesild,12.0
+46,2,1998,252.0,Spegesild,12.0
+46,3,1997,48.0,Spegesild,12.0
+46,3,1998,288.0,Spegesild,12.0
+46,4,1997,91.8,Spegesild,12.0
+46,4,1998,516.0,Spegesild,12.0
+46,5,1998,341.28,Spegesild,12.0
+46,8,1996,122.39999999999999,Spegesild,12.0
+46,8,1997,244.8,Spegesild,12.0
+46,9,1997,1260.0,Spegesild,12.0
+46,10,1996,288.0,Spegesild,12.0
+46,10,1997,504.0,Spegesild,12.0
+46,11,1997,319.2,Spegesild,12.0
+46,12,1996,673.9200000000001,Spegesild,12.0
+47,1,1997,589.0,Zaanse koeken,9.5
+47,1,1998,285.0,Zaanse koeken,9.5
+47,2,1998,179.55,Zaanse koeken,9.5
+47,3,1997,228.0,Zaanse koeken,9.5
+47,3,1998,465.5,Zaanse koeken,9.5
+47,4,1997,48.449999999999996,Zaanse koeken,9.5
+47,6,1997,237.5,Zaanse koeken,9.5
+47,7,1997,142.5,Zaanse koeken,9.5
+47,9,1997,668.8,Zaanse koeken,9.5
+47,10,1996,97.28,Zaanse koeken,9.5
+47,10,1997,517.75,Zaanse koeken,9.5
+47,11,1997,213.75,Zaanse koeken,9.5
+47,12,1997,285.0,Zaanse koeken,9.5
+48,1,1997,606.9,Chocolade,12.75
+48,1,1998,86.7,Chocolade,12.75
+48,2,1997,137.70000000000002,Chocolade,12.75
+48,4,1997,162.5625,Chocolade,12.75
+48,7,1997,68.85000000000001,Chocolade,12.75
+48,10,1997,306.0,Chocolade,12.75
+49,1,1997,936.0,Maxilaku,20.0
+49,2,1997,285.59999999999997,Maxilaku,20.0
+49,2,1998,1596.0,Maxilaku,20.0
+49,3,1997,384.0,Maxilaku,20.0
+49,3,1998,1360.0,Maxilaku,20.0
+49,4,1997,500.0,Maxilaku,20.0
+49,4,1998,1240.0,Maxilaku,20.0
+49,5,1997,120.0,Maxilaku,20.0
+49,7,1996,640.0,Maxilaku,20.0
+49,7,1997,835.0,Maxilaku,20.0
+49,8,1996,240.0,Maxilaku,20.0
+49,9,1996,480.0,Maxilaku,20.0
+49,11,1996,560.0,Maxilaku,20.0
+49,12,1997,68.0,Maxilaku,20.0
+50,1,1997,520.0,Valkoinen suklaa,16.25
+50,3,1997,325.0,Valkoinen suklaa,16.25
+50,3,1998,536.25,Valkoinen suklaa,16.25
+50,5,1998,357.5,Valkoinen suklaa,16.25
+50,8,1997,385.9375,Valkoinen suklaa,16.25
+50,11,1996,175.5,Valkoinen suklaa,16.25
+50,11,1997,942.5,Valkoinen suklaa,16.25
+50,12,1996,195.0,Valkoinen suklaa,16.25
+51,1,1998,636.0,Manjimup Dried Apples,53.0
+51,2,1998,106.0,Manjimup Dried Apples,53.0
+51,3,1997,1950.3999999999999,Manjimup Dried Apples,53.0
+51,3,1998,3922.0,Manjimup Dried Apples,53.0
+51,4,1998,6426.25,Manjimup Dried Apples,53.0
+51,5,1997,2480.4,Manjimup Dried Apples,53.0
+51,6,1997,4717.0,Manjimup Dried Apples,53.0
+51,7,1996,2957.3999999999996,Manjimup Dried Apples,53.0
+51,8,1996,76.32,Manjimup Dried Apples,53.0
+51,8,1997,795.0,Manjimup Dried Apples,53.0
+51,9,1997,2067.0,Manjimup Dried Apples,53.0
+51,10,1996,1628.1599999999999,Manjimup Dried Apples,53.0
+51,10,1997,1855.0,Manjimup Dried Apples,53.0
+51,11,1996,848.0,Manjimup Dried Apples,53.0
+51,11,1997,1510.5,Manjimup Dried Apples,53.0
+51,12,1996,648.7199999999999,Manjimup Dried Apples,53.0
+51,12,1997,9195.5,Manjimup Dried Apples,53.0
+52,1,1998,196.0,Filo Mix,7.0
+52,2,1997,187.60000000000002,Filo Mix,7.0
+52,2,1998,93.1,Filo Mix,7.0
+52,3,1998,370.29999999999995,Filo Mix,7.0
+52,4,1997,42.0,Filo Mix,7.0
+52,4,1998,189.0,Filo Mix,7.0
+52,5,1998,14.0,Filo Mix,7.0
+52,6,1997,700.0,Filo Mix,7.0
+52,7,1997,191.8,Filo Mix,7.0
+52,8,1997,35.0,Filo Mix,7.0
+52,9,1997,63.0,Filo Mix,7.0
+52,10,1996,156.8,Filo Mix,7.0
+52,10,1997,28.0,Filo Mix,7.0
+52,11,1997,721.0,Filo Mix,7.0
+52,12,1996,89.60000000000001,Filo Mix,7.0
+52,12,1997,155.75,Filo Mix,7.0
+53,1,1997,596.05,Perth Pasties,32.8
+53,1,1998,921.6800000000001,Perth Pasties,32.8
+53,2,1997,1703.0,Perth Pasties,32.8
+53,2,1998,98.39999999999999,Perth Pasties,32.8
+53,3,1997,733.6,Perth Pasties,32.8
+53,3,1998,721.6,Perth Pasties,32.8
+53,4,1997,688.8,Perth Pasties,32.8
+53,4,1998,2328.8,Perth Pasties,32.8
+53,5,1998,737.9999999999999,Perth Pasties,32.8
+53,6,1997,1410.3999999999999,Perth Pasties,32.8
+53,7,1996,393.0,Perth Pasties,32.8
+53,8,1996,754.56,Perth Pasties,32.8
+53,8,1997,1172.6,Perth Pasties,32.8
+53,9,1996,786.0,Perth Pasties,32.8
+53,9,1997,328.0,Perth Pasties,32.8
+53,10,1997,4029.4799999999996,Perth Pasties,32.8
+53,12,1996,3170.2,Perth Pasties,32.8
+54,1,1997,271.4,Tourtière,7.45
+54,1,1998,195.5625,Tourtière,7.45
+54,2,1997,588.82,Tourtière,7.45
+54,2,1998,277.14,Tourtière,7.45
+54,3,1997,106.20000000000002,Tourtière,7.45
+54,4,1997,149.0,Tourtière,7.45
+54,4,1998,74.5,Tourtière,7.45
+54,5,1997,341.21000000000004,Tourtière,7.45
+54,5,1998,111.75,Tourtière,7.45
+54,7,1997,402.3,Tourtière,7.45
+54,8,1996,53.1,Tourtière,7.45
+54,8,1997,223.5,Tourtière,7.45
+54,9,1996,29.5,Tourtière,7.45
+54,9,1997,263.73,Tourtière,7.45
+54,10,1996,88.5,Tourtière,7.45
+54,10,1997,715.2,Tourtière,7.45
+54,11,1996,654.9000000000001,Tourtière,7.45
+54,12,1996,59.0,Tourtière,7.45
+54,12,1997,122.92500000000001,Tourtière,7.45
+55,1,1997,144.0,Pâté chinois,24.0
+55,2,1997,2937.6,Pâté chinois,24.0
+55,2,1998,840.0,Pâté chinois,24.0
+55,3,1997,554.88,Pâté chinois,24.0
+55,3,1998,576.0,Pâté chinois,24.0
+55,4,1998,4110.0,Pâté chinois,24.0
+55,5,1997,336.0,Pâté chinois,24.0
+55,5,1998,134.4,Pâté chinois,24.0
+55,6,1997,980.4,Pâté chinois,24.0
+55,7,1996,342.71999999999997,Pâté chinois,24.0
+55,7,1997,504.0,Pâté chinois,24.0
+55,8,1996,384.0,Pâté chinois,24.0
+55,8,1997,273.59999999999997,Pâté chinois,24.0
+55,9,1997,86.4,Pâté chinois,24.0
+55,10,1996,614.4000000000001,Pâté chinois,24.0
+55,10,1997,648.0,Pâté chinois,24.0
+55,11,1996,230.39999999999998,Pâté chinois,24.0
+55,11,1997,288.0,Pâté chinois,24.0
+55,12,1996,2361.6,Pâté chinois,24.0
+55,12,1997,1080.0,Pâté chinois,24.0
+56,1,1997,3192.0,Gnocchi di nonna Alice,38.0
+56,1,1998,3838.0,Gnocchi di nonna Alice,38.0
+56,2,1997,2401.6,Gnocchi di nonna Alice,38.0
+56,2,1998,1366.1,Gnocchi di nonna Alice,38.0
+56,3,1997,1337.6,Gnocchi di nonna Alice,38.0
+56,3,1998,1071.6,Gnocchi di nonna Alice,38.0
+56,4,1997,5517.6,Gnocchi di nonna Alice,38.0
+56,4,1998,950.0,Gnocchi di nonna Alice,38.0
+56,5,1997,969.0,Gnocchi di nonna Alice,38.0
+56,6,1997,3382.0,Gnocchi di nonna Alice,38.0
+56,7,1996,60.8,Gnocchi di nonna Alice,38.0
+56,7,1997,1748.0,Gnocchi di nonna Alice,38.0
+56,8,1997,2926.0,Gnocchi di nonna Alice,38.0
+56,9,1996,729.6,Gnocchi di nonna Alice,38.0
+56,9,1997,2097.6,Gnocchi di nonna Alice,38.0
+56,10,1996,346.55999999999995,Gnocchi di nonna Alice,38.0
+56,10,1997,2223.0,Gnocchi di nonna Alice,38.0
+56,11,1996,608.0,Gnocchi di nonna Alice,38.0
+56,11,1997,3275.6,Gnocchi di nonna Alice,38.0
+56,12,1996,1018.4,Gnocchi di nonna Alice,38.0
+56,12,1997,3534.0,Gnocchi di nonna Alice,38.0
+57,1,1997,312.0,Ravioli Angelo,19.5
+57,1,1998,1238.25,Ravioli Angelo,19.5
+57,2,1997,187.20000000000002,Ravioli Angelo,19.5
+57,2,1998,390.0,Ravioli Angelo,19.5
+57,3,1998,877.5,Ravioli Angelo,19.5
+57,4,1998,936.0,Ravioli Angelo,19.5
+57,5,1997,87.75,Ravioli Angelo,19.5
+57,6,1997,195.0,Ravioli Angelo,19.5
+57,7,1996,1002.3,Ravioli Angelo,19.5
+57,7,1997,390.0,Ravioli Angelo,19.5
+57,8,1996,31.2,Ravioli Angelo,19.5
+57,10,1996,249.6,Ravioli Angelo,19.5
+57,10,1997,780.0,Ravioli Angelo,19.5
+57,11,1996,780.0,Ravioli Angelo,19.5
+57,11,1997,204.75,Ravioli Angelo,19.5
+58,1,1998,1073.25,Escargots de Bourgogne,13.25
+58,2,1998,532.65,Escargots de Bourgogne,13.25
+58,3,1998,318.0,Escargots de Bourgogne,13.25
+58,4,1998,503.5,Escargots de Bourgogne,13.25
+58,5,1997,265.0,Escargots de Bourgogne,13.25
+58,7,1997,397.5,Escargots de Bourgogne,13.25
+58,8,1997,79.5,Escargots de Bourgogne,13.25
+58,9,1996,286.2,Escargots de Bourgogne,13.25
+58,9,1997,916.9,Escargots de Bourgogne,13.25
+58,10,1996,254.4,Escargots de Bourgogne,13.25
+58,10,1997,417.375,Escargots de Bourgogne,13.25
+58,12,1996,837.4000000000001,Escargots de Bourgogne,13.25
+59,1,1997,4364.8,Raclette Courdavault,55.0
+59,1,1998,7749.5,Raclette Courdavault,55.0
+59,2,1997,1584.0,Raclette Courdavault,55.0
+59,2,1998,2090.0,Raclette Courdavault,55.0
+59,3,1997,7128.0,Raclette Courdavault,55.0
+59,3,1998,220.0,Raclette Courdavault,55.0
+59,4,1997,220.0,Raclette Courdavault,55.0
+59,4,1998,16285.5,Raclette Courdavault,55.0
+59,5,1997,852.5,Raclette Courdavault,55.0
+59,6,1997,2420.0,Raclette Courdavault,55.0
+59,7,1996,3938.0,Raclette Courdavault,55.0
+59,7,1997,4372.5,Raclette Courdavault,55.0
+59,8,1996,910.8,Raclette Courdavault,55.0
+59,9,1996,1430.0,Raclette Courdavault,55.0
+59,9,1997,715.0,Raclette Courdavault,55.0
+59,10,1996,2228.6,Raclette Courdavault,55.0
+59,10,1997,5703.5,Raclette Courdavault,55.0
+59,11,1997,4881.25,Raclette Courdavault,55.0
+59,12,1996,528.0,Raclette Courdavault,55.0
+59,12,1997,3533.75,Raclette Courdavault,55.0
+60,1,1997,1550.3999999999999,Camembert Pierrot,34.0
+60,1,1998,4998.0,Camembert Pierrot,34.0
+60,2,1998,3400.0,Camembert Pierrot,34.0
+60,3,1997,1632.0,Camembert Pierrot,34.0
+60,3,1998,2978.4,Camembert Pierrot,34.0
+60,4,1997,3097.4,Camembert Pierrot,34.0
+60,4,1998,5854.8,Camembert Pierrot,34.0
+60,5,1997,892.5,Camembert Pierrot,34.0
+60,5,1998,63.919999999999995,Camembert Pierrot,34.0
+60,6,1997,693.6,Camembert Pierrot,34.0
+60,7,1996,1088.0,Camembert Pierrot,34.0
+60,7,1997,4131.0,Camembert Pierrot,34.0
+60,8,1996,1931.1999999999998,Camembert Pierrot,34.0
+60,8,1997,1020.0,Camembert Pierrot,34.0
+60,9,1997,4428.5,Camembert Pierrot,34.0
+60,10,1997,340.0,Camembert Pierrot,34.0
+60,11,1996,3587.68,Camembert Pierrot,34.0
+60,11,1997,2210.0,Camembert Pierrot,34.0
+60,12,1996,2418.08,Camembert Pierrot,34.0
+60,12,1997,510.0,Camembert Pierrot,34.0
+61,1,1997,364.8,Sirop d'érable,28.5
+61,1,1998,726.75,Sirop d'érable,28.5
+61,2,1997,2314.2,Sirop d'érable,28.5
+61,2,1998,1254.0,Sirop d'érable,28.5
+61,3,1998,855.0,Sirop d'érable,28.5
+61,4,1997,1054.5,Sirop d'érable,28.5
+61,4,1998,2425.35,Sirop d'érable,28.5
+61,5,1997,826.5,Sirop d'érable,28.5
+61,7,1997,2565.0,Sirop d'érable,28.5
+61,8,1997,456.0,Sirop d'érable,28.5
+61,10,1997,427.5,Sirop d'érable,28.5
+61,11,1997,513.0,Sirop d'érable,28.5
+61,12,1997,570.0,Sirop d'érable,28.5
+62,1,1997,2955.0,Tarte au sucre,49.3
+62,1,1998,4745.125,Tarte au sucre,49.3
+62,2,1997,1379.0,Tarte au sucre,49.3
+62,2,1998,2913.63,Tarte au sucre,49.3
+62,3,1998,6966.09,Tarte au sucre,49.3
+62,4,1997,147.89999999999998,Tarte au sucre,49.3
+62,4,1998,1368.0749999999998,Tarte au sucre,49.3
+62,5,1997,2908.7,Tarte au sucre,49.3
+62,6,1997,1491.325,Tarte au sucre,49.3
+62,7,1996,443.25,Tarte au sucre,49.3
+62,7,1997,887.4000000000001,Tarte au sucre,49.3
+62,8,1996,2048.8,Tarte au sucre,49.3
+62,8,1997,4091.9,Tarte au sucre,49.3
+62,9,1996,4826.5,Tarte au sucre,49.3
+62,9,1997,493.0,Tarte au sucre,49.3
+62,10,1996,1103.2,Tarte au sucre,49.3
+62,10,1997,3352.3999999999996,Tarte au sucre,49.3
+62,11,1997,1922.7,Tarte au sucre,49.3
+62,12,1996,1182.0,Tarte au sucre,49.3
+62,12,1997,2008.975,Tarte au sucre,49.3
+63,1,1997,3202.875,Vegie-spread,43.9
+63,3,1998,4609.5,Vegie-spread,43.9
+63,4,1998,1843.8,Vegie-spread,43.9
+63,6,1997,263.4,Vegie-spread,43.9
+63,7,1997,842.88,Vegie-spread,43.9
+63,8,1996,456.3,Vegie-spread,43.9
+63,10,1996,2386.7999999999997,Vegie-spread,43.9
+63,10,1997,878.0,Vegie-spread,43.9
+63,11,1997,395.09999999999997,Vegie-spread,43.9
+63,12,1996,505.44000000000005,Vegie-spread,43.9
+63,12,1997,1317.0,Vegie-spread,43.9
+64,1,1997,186.20000000000002,Wimmers gute Semmelknödel,33.25
+64,1,1998,3441.375,Wimmers gute Semmelknödel,33.25
+64,2,1997,1715.7,Wimmers gute Semmelknödel,33.25
+64,2,1998,1138.8125,Wimmers gute Semmelknödel,33.25
+64,3,1997,1010.8,Wimmers gute Semmelknödel,33.25
+64,3,1998,399.0,Wimmers gute Semmelknödel,33.25
+64,4,1998,1330.0,Wimmers gute Semmelknödel,33.25
+64,5,1998,4387.005,Wimmers gute Semmelknödel,33.25
+64,6,1997,1735.65,Wimmers gute Semmelknödel,33.25
+64,8,1996,239.4,Wimmers gute Semmelknödel,33.25
+64,8,1997,299.25,Wimmers gute Semmelknödel,33.25
+64,9,1997,1379.875,Wimmers gute Semmelknödel,33.25
+64,10,1996,1330.0,Wimmers gute Semmelknödel,33.25
+64,11,1996,837.9,Wimmers gute Semmelknödel,33.25
+64,11,1997,798.0,Wimmers gute Semmelknödel,33.25
+64,12,1996,798.0,Wimmers gute Semmelknödel,33.25
+64,12,1997,931.0,Wimmers gute Semmelknödel,33.25
+65,1,1997,336.0,Louisiana Fiery Hot Pepper Sauce,21.05
+65,1,1998,268.3875,Louisiana Fiery Hot Pepper Sauce,21.05
+65,2,1997,1011.36,Louisiana Fiery Hot Pepper Sauce,21.05
+65,2,1998,1312.4675,Louisiana Fiery Hot Pepper Sauce,21.05
+65,4,1997,1468.75,Louisiana Fiery Hot Pepper Sauce,21.05
+65,4,1998,442.05,Louisiana Fiery Hot Pepper Sauce,21.05
+65,5,1997,682.0200000000001,Louisiana Fiery Hot Pepper Sauce,21.05
+65,6,1997,599.925,Louisiana Fiery Hot Pepper Sauce,21.05
+65,7,1996,550.2,Louisiana Fiery Hot Pepper Sauce,21.05
+65,7,1997,202.08000000000004,Louisiana Fiery Hot Pepper Sauce,21.05
+65,8,1997,442.05,Louisiana Fiery Hot Pepper Sauce,21.05
+65,9,1996,453.6,Louisiana Fiery Hot Pepper Sauce,21.05
+65,9,1997,731.4875,Louisiana Fiery Hot Pepper Sauce,21.05
+65,10,1996,672.0,Louisiana Fiery Hot Pepper Sauce,21.05
+65,10,1997,1299.8374999999999,Louisiana Fiery Hot Pepper Sauce,21.05
+65,11,1996,495.6,Louisiana Fiery Hot Pepper Sauce,21.05
+65,11,1997,1041.975,Louisiana Fiery Hot Pepper Sauce,21.05
+65,12,1996,302.40000000000003,Louisiana Fiery Hot Pepper Sauce,21.05
+65,12,1997,1557.7,Louisiana Fiery Hot Pepper Sauce,21.05
+66,2,1997,816.0,Louisiana Hot Spiced Okra,17.0
+66,3,1997,693.6,Louisiana Hot Spiced Okra,17.0
+66,4,1997,122.4,Louisiana Hot Spiced Okra,17.0
+66,5,1997,408.0,Louisiana Hot Spiced Okra,17.0
+66,5,1998,17.0,Louisiana Hot Spiced Okra,17.0
+66,9,1996,408.0,Louisiana Hot Spiced Okra,17.0
+66,9,1997,68.0,Louisiana Hot Spiced Okra,17.0
+66,12,1997,850.0,Louisiana Hot Spiced Okra,17.0
+67,2,1998,420.0,Laughing Lumberjack Lager,14.0
+67,3,1998,744.8,Laughing Lumberjack Lager,14.0
+67,4,1997,420.0,Laughing Lumberjack Lager,14.0
+67,4,1998,280.0,Laughing Lumberjack Lager,14.0
+67,5,1997,98.0,Laughing Lumberjack Lager,14.0
+67,8,1996,42.0,Laughing Lumberjack Lager,14.0
+67,9,1997,350.0,Laughing Lumberjack Lager,14.0
+67,12,1997,42.0,Laughing Lumberjack Lager,14.0
+68,1,1997,510.0,Scottish Longbreads,12.5
+68,1,1998,550.0,Scottish Longbreads,12.5
+68,2,1997,157.5,Scottish Longbreads,12.5
+68,2,1998,725.0,Scottish Longbreads,12.5
+68,3,1997,300.0,Scottish Longbreads,12.5
+68,3,1998,750.0,Scottish Longbreads,12.5
+68,4,1997,75.0,Scottish Longbreads,12.5
+68,4,1998,550.0,Scottish Longbreads,12.5
+68,5,1997,687.5,Scottish Longbreads,12.5
+68,5,1998,687.5,Scottish Longbreads,12.5
+68,8,1996,27.0,Scottish Longbreads,12.5
+68,8,1997,367.5,Scottish Longbreads,12.5
+68,9,1996,365.0,Scottish Longbreads,12.5
+68,9,1997,125.0,Scottish Longbreads,12.5
+68,10,1996,238.0,Scottish Longbreads,12.5
+68,10,1997,962.5,Scottish Longbreads,12.5
+68,11,1997,60.0,Scottish Longbreads,12.5
+68,12,1996,664.0,Scottish Longbreads,12.5
+68,12,1997,912.5,Scottish Longbreads,12.5
+69,1,1997,979.1999999999999,Gudbrandsdalsost,36.0
+69,2,1998,1710.0,Gudbrandsdalsost,36.0
+69,3,1998,684.0,Gudbrandsdalsost,36.0
+69,4,1997,259.2,Gudbrandsdalsost,36.0
+69,4,1998,2246.4,Gudbrandsdalsost,36.0
+69,5,1997,1008.0,Gudbrandsdalsost,36.0
+69,6,1997,306.0,Gudbrandsdalsost,36.0
+69,7,1997,2331.0,Gudbrandsdalsost,36.0
+69,8,1997,540.0,Gudbrandsdalsost,36.0
+69,9,1996,662.4,Gudbrandsdalsost,36.0
+69,9,1997,1296.0,Gudbrandsdalsost,36.0
+69,10,1997,1773.0,Gudbrandsdalsost,36.0
+69,11,1996,1906.56,Gudbrandsdalsost,36.0
+69,11,1997,3879.0,Gudbrandsdalsost,36.0
+69,12,1996,1670.4,Gudbrandsdalsost,36.0
+69,12,1997,691.2,Gudbrandsdalsost,36.0
+70,1,1997,86.4,Outback Lager,15.0
+70,1,1998,1372.5,Outback Lager,15.0
+70,2,1997,270.0,Outback Lager,15.0
+70,2,1998,1083.75,Outback Lager,15.0
+70,3,1997,792.0,Outback Lager,15.0
+70,4,1997,279.0,Outback Lager,15.0
+70,4,1998,939.0,Outback Lager,15.0
+70,5,1997,105.0,Outback Lager,15.0
+70,7,1996,429.0,Outback Lager,15.0
+70,7,1997,213.75,Outback Lager,15.0
+70,8,1997,468.75,Outback Lager,15.0
+70,9,1996,660.0,Outback Lager,15.0
+70,9,1997,570.0,Outback Lager,15.0
+70,10,1997,1558.5,Outback Lager,15.0
+70,11,1997,600.0,Outback Lager,15.0
+70,12,1996,720.0,Outback Lager,15.0
+70,12,1997,525.0,Outback Lager,15.0
+71,1,1997,1290.0,Flotemysost,21.5
+71,1,1998,946.0,Flotemysost,21.5
+71,2,1997,1410.4,Flotemysost,21.5
+71,2,1998,1182.5,Flotemysost,21.5
+71,3,1997,206.39999999999998,Flotemysost,21.5
+71,3,1998,564.375,Flotemysost,21.5
+71,4,1998,4171.0,Flotemysost,21.5
+71,5,1997,174.15,Flotemysost,21.5
+71,7,1997,806.25,Flotemysost,21.5
+71,8,1996,344.0,Flotemysost,21.5
+71,8,1997,1236.25,Flotemysost,21.5
+71,9,1996,86.0,Flotemysost,21.5
+71,9,1997,498.8,Flotemysost,21.5
+71,10,1996,1135.2,Flotemysost,21.5
+71,10,1997,2214.5,Flotemysost,21.5
+71,11,1996,86.0,Flotemysost,21.5
+71,12,1996,2597.2,Flotemysost,21.5
+71,12,1997,602.0,Flotemysost,21.5
+72,1,1998,1722.6,Mozzarella di Giovanni,34.8
+72,2,1997,1390.0,Mozzarella di Giovanni,34.8
+72,3,1998,3514.7999999999997,Mozzarella di Giovanni,34.8
+72,4,1997,695.0,Mozzarella di Giovanni,34.8
+72,4,1998,1287.6,Mozzarella di Giovanni,34.8
+72,5,1997,1914.0,Mozzarella di Giovanni,34.8
+72,6,1997,1879.1999999999998,Mozzarella di Giovanni,34.8
+72,7,1996,813.3999999999999,Mozzarella di Giovanni,34.8
+72,7,1997,417.59999999999997,Mozzarella di Giovanni,34.8
+72,8,1996,945.2,Mozzarella di Giovanni,34.8
+72,8,1997,2610.0,Mozzarella di Giovanni,34.8
+72,9,1996,556.0,Mozzarella di Giovanni,34.8
+72,10,1996,2397.75,Mozzarella di Giovanni,34.8
+72,11,1997,1461.6,Mozzarella di Giovanni,34.8
+72,12,1996,2059.98,Mozzarella di Giovanni,34.8
+72,12,1997,1235.4,Mozzarella di Giovanni,34.8
+73,1,1997,216.0,Röd Kaviar,15.0
+73,2,1998,150.0,Röd Kaviar,15.0
+73,3,1997,192.0,Röd Kaviar,15.0
+73,5,1997,477.0,Röd Kaviar,15.0
+73,5,1998,29.7,Röd Kaviar,15.0
+73,6,1997,45.0,Röd Kaviar,15.0
+73,7,1997,450.0,Röd Kaviar,15.0
+73,8,1996,300.0,Röd Kaviar,15.0
+73,8,1997,446.25,Röd Kaviar,15.0
+73,9,1997,750.0,Röd Kaviar,15.0
+73,10,1997,716.25,Röd Kaviar,15.0
+73,11,1997,225.0,Röd Kaviar,15.0
+74,1,1997,120.0,Longlife Tofu,10.0
+74,1,1998,200.0,Longlife Tofu,10.0
+74,2,1997,240.0,Longlife Tofu,10.0
+74,3,1997,128.0,Longlife Tofu,10.0
+74,4,1998,200.0,Longlife Tofu,10.0
+74,7,1996,384.0,Longlife Tofu,10.0
+74,11,1997,50.0,Longlife Tofu,10.0
+74,12,1996,648.0,Longlife Tofu,10.0
+74,12,1997,462.5,Longlife Tofu,10.0
+75,1,1998,155.0,Rhönbräu Klosterbier,7.75
+75,2,1997,152.52,Rhönbräu Klosterbier,7.75
+75,2,1998,992.0,Rhönbräu Klosterbier,7.75
+75,3,1997,285.20000000000005,Rhönbräu Klosterbier,7.75
+75,3,1998,1543.025,Rhönbräu Klosterbier,7.75
+75,4,1997,638.6,Rhönbräu Klosterbier,7.75
+75,4,1998,232.5,Rhönbräu Klosterbier,7.75
+75,5,1997,232.5,Rhönbräu Klosterbier,7.75
+75,5,1998,31.0,Rhönbräu Klosterbier,7.75
+75,6,1997,887.375,Rhönbräu Klosterbier,7.75
+75,7,1997,496.0,Rhönbräu Klosterbier,7.75
+75,8,1996,260.4,Rhönbräu Klosterbier,7.75
+75,8,1997,71.30000000000001,Rhönbräu Klosterbier,7.75
+75,9,1996,62.0,Rhönbräu Klosterbier,7.75
+75,9,1997,426.25,Rhönbräu Klosterbier,7.75
+75,10,1996,310.0,Rhönbräu Klosterbier,7.75
+75,10,1997,325.5,Rhönbräu Klosterbier,7.75
+75,11,1996,106.02000000000001,Rhönbräu Klosterbier,7.75
+75,11,1997,155.0,Rhönbräu Klosterbier,7.75
+75,12,1997,815.3000000000001,Rhönbräu Klosterbier,7.75
+76,1,1997,417.6,Lakkalikööri,18.0
+76,1,1998,1408.5,Lakkalikööri,18.0
+76,2,1997,220.32,Lakkalikööri,18.0
+76,2,1998,180.0,Lakkalikööri,18.0
+76,3,1997,514.08,Lakkalikööri,18.0
+76,3,1998,2502.0,Lakkalikööri,18.0
+76,4,1998,2214.0,Lakkalikööri,18.0
+76,5,1997,900.0,Lakkalikööri,18.0
+76,5,1998,30.599999999999998,Lakkalikööri,18.0
+76,6,1997,1152.0,Lakkalikööri,18.0
+76,7,1996,183.6,Lakkalikööri,18.0
+76,7,1997,1659.6,Lakkalikööri,18.0
+76,8,1996,451.43999999999994,Lakkalikööri,18.0
+76,8,1997,630.0,Lakkalikööri,18.0
+76,9,1997,180.0,Lakkalikööri,18.0
+76,10,1996,734.4,Lakkalikööri,18.0
+76,10,1997,805.5,Lakkalikööri,18.0
+76,11,1996,172.8,Lakkalikööri,18.0
+76,11,1997,900.0,Lakkalikööri,18.0
+76,12,1996,504.0,Lakkalikööri,18.0
+77,1,1997,452.4,Original Frankfurter grüne Soße,13.0
+77,1,1998,651.3,Original Frankfurter grüne Soße,13.0
+77,2,1997,514.8000000000001,Original Frankfurter grüne Soße,13.0
+77,2,1998,845.0,Original Frankfurter grüne Soße,13.0
+77,3,1997,358.28,Original Frankfurter grüne Soße,13.0
+77,3,1998,910.0,Original Frankfurter grüne Soße,13.0
+77,4,1997,312.0,Original Frankfurter grüne Soße,13.0
+77,4,1998,1013.3499999999999,Original Frankfurter grüne Soße,13.0
+77,5,1997,123.5,Original Frankfurter grüne Soße,13.0
+77,5,1998,335.4,Original Frankfurter grüne Soße,13.0
+77,6,1997,234.0,Original Frankfurter grüne Soße,13.0
+77,7,1996,280.8,Original Frankfurter grüne Soße,13.0
+77,7,1997,1049.75,Original Frankfurter grüne Soße,13.0
+77,8,1996,104.0,Original Frankfurter grüne Soße,13.0
+77,8,1997,341.25,Original Frankfurter grüne Soße,13.0
+77,9,1997,864.5,Original Frankfurter grüne Soße,13.0
+77,10,1997,292.5,Original Frankfurter grüne Soße,13.0
+77,11,1996,124.8,Original Frankfurter grüne Soße,13.0
+77,11,1997,23.400000000000002,Original Frankfurter grüne Soße,13.0
+77,12,1996,145.6,Original Frankfurter grüne Soße,13.0
+77,12,1997,195.0,Original Frankfurter grüne Soße,13.0
